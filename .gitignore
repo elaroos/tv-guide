@@ -19,3 +19,6 @@ gh_token.txt
 # Local config (Termux/Android)
 secrets.sh
 last_run.log
+
+# APK files (for ADB install)
+*.apk
