@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
+export PATH="/data/data/com.termux/files/usr/bin:$PATH"
 
 DIR="$(cd "$(dirname "$0")" && pwd)"
 LOG="$DIR/last_run.log"
@@ -35,7 +36,7 @@ export SECURE_TV_ID="com.mitvpro.android.ott"
 export CLIENT_IDENTIFIER="RFCX90RGPTA"
 
 log "Instalando dependencias..."
-pip install requests -q 2>>"$LOG"
+/data/data/com.termux/files/usr/bin/pip install requests -q 2>>"$LOG"
 
 log "Ejecutando playlist_generator.py..."
 cd "$DIR"
@@ -44,6 +45,11 @@ python playlist_generator.py 2>&1 | tee -a "$LOG"
 if [ ! -f "playlist.m3u" ] && [ ! -f "epg.xml" ]; then
     log "[ERROR] No se generaron archivos"
     exit 1
+fi
+
+# Si no hay playlist.m3u (epg-only), salir sin push
+if [ ! -f "playlist.m3u" ]; then
+    log "Solo EPG, sin playlist para push"
 fi
 
 log "Configurando git..."
@@ -56,7 +62,9 @@ git remote set-url origin "$REPO_URL" 2>/dev/null || \
     git remote add origin "$REPO_URL"
 
 log "Haciendo commit y push..."
-git add playlist.m3u epg.xml
+for f in playlist.m3u epg.xml; do
+    [ -f "$f" ] && git add "$f"
+done
 if git diff --cached --quiet; then
     log "Sin cambios para commit"
 else
