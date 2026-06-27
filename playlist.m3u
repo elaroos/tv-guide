@@ -1,3 +1,0 @@
-#EXTM3U tvg-url="epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="Test Channel" tvg-logo="" group-title="Test",Test Channel
-https://test.example.com/stream.m3u8
