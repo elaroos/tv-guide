@@ -31,9 +31,9 @@ jobs:
 
       - run: pip install requests
 
-      - name: Generate EPG (schedule/manual only)
+      - name: Generate Playlist and EPG (schedule/manual only)
         if: ${{ github.event_name != 'push' }}
-        run: python playlist_generator.py --epg-only
+        run: python playlist_generator.py
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           HMAC_SECRET: ${{ secrets.HMAC_SECRET }}
