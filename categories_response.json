@@ -1,0 +1,367 @@
+[
+  {
+    "id": 7,
+    "parent_id": null,
+    "name": "Español",
+    "type": 1,
+    "sort_order": 1,
+    "status": true,
+    "created_at": "2025-05-12T12:37:00.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27Z7G13JMJQ2M17MW2S93N",
+    "media": {
+      "media_url": "uploads/categories/category_7_1750466413.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_7_1750466413_thumb.png"
+    }
+  },
+  {
+    "id": 5,
+    "parent_id": null,
+    "name": "Inglés",
+    "type": 1,
+    "sort_order": 2,
+    "status": true,
+    "created_at": "2025-05-12T12:36:57.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27Z4XK383FGMZWZEV6TXZ8",
+    "media": {
+      "media_url": "uploads/categories/category_5_1750466446.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_5_1750466446_thumb.png"
+    }
+  },
+  {
+    "id": 2,
+    "parent_id": null,
+    "name": "Deportes",
+    "type": 1,
+    "sort_order": 3,
+    "status": true,
+    "created_at": "2025-05-08T07:03:15.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JTQB989C3N5DTTNB2V98SJW7",
+    "media": {
+      "media_url": "uploads/categories/category_2_1750467709.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_2_1750467709_thumb.png"
+    }
+  },
+  {
+    "id": 8,
+    "parent_id": null,
+    "name": "Locales MX",
+    "type": 1,
+    "sort_order": 4,
+    "status": true,
+    "created_at": "2025-05-12T12:37:00.000000Z",
+    "updated_at": "2025-06-10T21:08:04.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27Z7G6DPT3YYT0JS3ZNZKS",
+    "media": {
+      "media_url": "uploads/categories/category_8_1750484584.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_8_1750484584_thumb.png"
+    }
+  },
+  {
+    "id": 9,
+    "parent_id": null,
+    "name": "Entretenimiento",
+    "type": 1,
+    "sort_order": 5,
+    "status": true,
+    "created_at": "2025-05-12T12:37:02.000000Z",
+    "updated_at": "2025-06-21T01:53:14.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27Z9XXP1SBY1H59MK1P264",
+    "media": {
+      "media_url": "uploads/categories/category_9_1750484495.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_9_1750484495_thumb.png"
+    }
+  },
+  {
+    "id": 10,
+    "parent_id": null,
+    "name": "Infantiles",
+    "type": 1,
+    "sort_order": 6,
+    "status": true,
+    "created_at": "2025-05-12T12:37:03.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZAVJZ13XZ2SSH877W98S",
+    "media": {
+      "media_url": "uploads/categories/category_10_1750467654.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_10_1750467654_thumb.png"
+    }
+  },
+  {
+    "id": 1,
+    "parent_id": null,
+    "name": "Películas",
+    "type": 1,
+    "sort_order": 7,
+    "status": true,
+    "created_at": "2025-05-08T07:03:15.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JTQB9897M46858YNWC98DJ9X",
+    "media": {
+      "media_url": "uploads/categories/category_1_1750466993.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_1_1750466993_thumb.png"
+    }
+  },
+  {
+    "id": 14,
+    "parent_id": null,
+    "name": "Culturales",
+    "type": 1,
+    "sort_order": 8,
+    "status": true,
+    "created_at": "2025-05-12T12:37:08.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZG6ZX9G1TGQNXMQKS13N",
+    "media": {
+      "media_url": "uploads/categories/category_14_1750473209.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_14_1750473209_thumb.png"
+    }
+  },
+  {
+    "id": 4,
+    "parent_id": null,
+    "name": "Música",
+    "type": 1,
+    "sort_order": 9,
+    "status": true,
+    "created_at": "2025-05-08T07:03:15.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JTQB989NEP7FSJH23WKT4BQV",
+    "media": {
+      "media_url": "uploads/categories/category_4_1750473727.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_4_1750473727_thumb.png"
+    }
+  },
+  {
+    "id": 11,
+    "parent_id": null,
+    "name": "Noticias",
+    "type": 1,
+    "sort_order": 10,
+    "status": true,
+    "created_at": "2025-05-12T12:37:04.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZBYVK5MEHVA9HFNXSMN6",
+    "media": {
+      "media_url": "uploads/categories/category_11_1750467373.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_11_1750467373_thumb.png"
+    }
+  },
+  {
+    "id": 13,
+    "parent_id": null,
+    "name": "Networks",
+    "type": 1,
+    "sort_order": 11,
+    "status": true,
+    "created_at": "2025-05-12T12:37:06.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZDR4B3FBVJYYWB8TDNWQ",
+    "media": {
+      "media_url": "uploads/categories/category_13_1750471651.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_13_1750471651_thumb.png"
+    }
+  },
+  {
+    "id": 18,
+    "parent_id": null,
+    "name": "Internacionales",
+    "type": 1,
+    "sort_order": 12,
+    "status": true,
+    "created_at": "2025-05-12T12:37:24.000000Z",
+    "updated_at": "2025-06-21T01:53:31.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZZABVJ10DTTMJMS32AT1",
+    "media": {
+      "media_url": "uploads/categories/category_18_1750472288.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_18_1750472288_thumb.png"
+    }
+  },
+  {
+    "id": 16,
+    "parent_id": null,
+    "name": "Locales PR",
+    "type": 1,
+    "sort_order": 13,
+    "status": true,
+    "created_at": "2025-05-12T12:37:18.000000Z",
+    "updated_at": "2025-06-10T09:36:17.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZSM5FDCZJYBH5NYT01B7",
+    "media": {
+      "media_url": "uploads/categories/category_16_1750466571.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_16_1750466571_thumb.png"
+    }
+  },
+  {
+    "id": 29,
+    "parent_id": null,
+    "name": "1 Mbps",
+    "type": 1,
+    "sort_order": 14,
+    "status": true,
+    "created_at": "2025-06-09T07:31:27.000000Z",
+    "updated_at": "2025-06-21T06:02:28.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JX9SKWPA8H4VEEN3H0GVTKDT",
+    "media": {
+      "media_url": "uploads/categories/category_29_1750470379.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_29_1750470379_thumb.png"
+    }
+  },
+  {
+    "id": 6,
+    "parent_id": null,
+    "name": "Eventos",
+    "type": 1,
+    "sort_order": 15,
+    "status": true,
+    "created_at": "2025-05-12T12:36:59.000000Z",
+    "updated_at": "2025-06-20T16:08:15.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27Z77P7WT7HDMS7GQPNXPV",
+    "media": {
+      "media_url": "uploads/categories/category_6_1750472447.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_6_1750472447_thumb.png"
+    }
+  },
+  {
+    "id": 12,
+    "parent_id": null,
+    "name": "Adultos",
+    "type": 1,
+    "sort_order": 16,
+    "status": true,
+    "created_at": "2025-05-12T12:37:06.000000Z",
+    "updated_at": "2025-06-19T00:22:35.000000Z",
+    "name_tr": null,
+    "is_visible": true,
+    "ulid": "01JV27ZDKDZC7C2QZPFDGT23DS",
+    "media": {
+      "media_url": "uploads/categories/category_12_1750485649.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_12_1750485649_thumb.png"
+    }
+  },
+  {
+    "id": 15,
+    "parent_id": null,
+    "name": "NFL",
+    "type": 1,
+    "sort_order": 17,
+    "status": true,
+    "created_at": "2025-05-12T12:37:14.000000Z",
+    "updated_at": "2025-06-19T00:22:35.000000Z",
+    "name_tr": null,
+    "is_visible": false,
+    "ulid": "01JV27ZNCJ55ZXKNDWTERVAAN2",
+    "media": {
+      "media_url": "uploads/categories/category_15_1750231736.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_15_1750231736_thumb.png"
+    }
+  },
+  {
+    "id": 17,
+    "parent_id": null,
+    "name": "MLB",
+    "type": 1,
+    "sort_order": 18,
+    "status": true,
+    "created_at": "2025-05-12T12:37:23.000000Z",
+    "updated_at": "2025-06-19T00:22:35.000000Z",
+    "name_tr": null,
+    "is_visible": false,
+    "ulid": "01JV27ZYDA512BE8QP8E4DBZ5P",
+    "media": {
+      "media_url": "uploads/categories/category_17_1750231767.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_17_1750231767_thumb.png"
+    }
+  },
+  {
+    "id": 19,
+    "parent_id": null,
+    "name": "NBA",
+    "type": 1,
+    "sort_order": 19,
+    "status": true,
+    "created_at": "2025-05-12T12:39:38.000000Z",
+    "updated_at": "2025-06-19T00:22:35.000000Z",
+    "name_tr": null,
+    "is_visible": false,
+    "ulid": "01JV2842KH7C2P4N2RHSE1SXDK",
+    "media": {
+      "media_url": "uploads/categories/category_19_1750231794.png",
+      "thumb_url": "https://doh00apimax.x3ming.com/uploads/categories/category_19_1750231794_thumb.png"
+    }
+  },
+  {
+    "id": 22,
+    "parent_id": null,
+    "name": "SOPORTE",
+    "type": 1,
+    "sort_order": 20,
+    "status": true,
+    "created_at": "2025-05-20T06:43:18.000000Z",
+    "updated_at": "2025-10-27T09:52:59.000000Z",
+    "name_tr": null,
+    "is_visible": false,
+    "ulid": "01JVP6XBMHQH744QP4BS5JRJ32",
+    "media": null
+  },
+  {
+    "id": 21,
+    "parent_id": null,
+    "name": "Canales Pendientes",
+    "type": 1,
+    "sort_order": 21,
+    "status": true,
+    "created_at": "2025-05-19T01:06:53.000000Z",
+    "updated_at": "2025-06-20T16:09:42.000000Z",
+    "name_tr": null,
+    "is_visible": false,
+    "ulid": "01JVK18MAA90TXF9XTSR08ERPY",
+    "media": null
+  },
+  {
+    "id": 31,
+    "parent_id": null,
+    "name": "EPG TEST 1",
+    "type": 1,
+    "sort_order": 22,
+    "status": true,
+    "created_at": "2025-06-17T17:34:51.000000Z",
+    "updated_at": "2025-06-24T02:57:35.000000Z",
+    "name_tr": null,
+    "is_visible": false,
+    "ulid": "01JXZFAFQBSXTH4XJ1GC2X7JS8",
+    "media": null
+  }
+]
