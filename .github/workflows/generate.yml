@@ -1,0 +1,49 @@
+name: Generate Playlist
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Generate playlist and EPG
+        run: python playlist_generator.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          HMAC_SECRET: ${{ secrets.HMAC_SECRET }}
+          API_BASE: ${{ secrets.API_BASE }}
+          APP_CODE: ${{ secrets.APP_CODE }}
+          APP_VERSION: ${{ secrets.APP_VERSION }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
+          SECURE_TV_ID: ${{ secrets.SECURE_TV_ID }}
+          CLIENT_IDENTIFIER: ${{ secrets.CLIENT_IDENTIFIER }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
