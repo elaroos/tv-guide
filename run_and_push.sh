@@ -62,6 +62,7 @@ git remote set-url origin "$REPO_URL" 2>/dev/null || \
     git remote add origin "$REPO_URL"
 
 log "Haciendo commit y push..."
+git pull --rebase origin main 2>&1 | tee -a "$LOG"
 for f in playlist.m3u epg.xml; do
     [ -f "$f" ] && git add -f "$f"
 done
