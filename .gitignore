@@ -12,6 +12,10 @@ playback_*.json
 __pycache__/
 *.pyc
 
-# Local config
+# Local config (PC)
 local_config.ps1
 gh_token.txt
+
+# Local config (Termux/Android)
+secrets.sh
+last_run.log
