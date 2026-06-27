@@ -1,0 +1,13 @@
+# Generated files - created by playlist_generator.py
+playlist.m3u
+epg.xml
+all_playbacks.json
+playback_*.json
+
+# Token - never commit
+**/ACCESS_TOKEN.txt
+**/fresh_token.json
+
+# Python cache
+__pycache__/
+*.pyc
