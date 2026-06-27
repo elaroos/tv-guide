@@ -1,0 +1,905 @@
+#EXTM3U tvg-url="epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="ABC LA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1235-1748476313.png" group-title="Networks",ABC LA
+https://lpro-portal000.x3tunnel.com/canada/abcLA/chunks.m3u8?md5=TroPHUjJ6gNQdPc3ZJvxew&expires=1782690148&token=f2-com.mitvpro.android.ott&md5=e-diLaOVn5CzXtxYiFLQhQ&expires=1782787348
+#EXTINF:-1 tvg-id="" tvg-name="ABC MIAMI" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1266-1748476422.png" group-title="Networks",ABC MIAMI
+https://lpro-portal000.x3tunnel.com:8443/canada/abcMI/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC NY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1295-1748476518.png" group-title="Networks",ABC NY
+https://lpro-portal000.x3tunnel.com:8443/canada/abcNY/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC TX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1446-1748576911.png" group-title="Inglés",ABC TX
+https://lpro-portal000.x3tunnel.com:8443/canada/abcNY/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADN noticias" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1040-1760565963.png" group-title="Español",ADN noticias
+https://lpro-portal000.x3tunnel.com/Dmx/140adn40/chunks.m3u8?md5=xo8fL50J7AdYi7VM0Wle9w&expires=1782690149&token=f2-com.mitvpro.android.ott&md5=I2T4FsDykbbhduBF_VtFSw&expires=1782787350
+#EXTINF:-1 tvg-id="" tvg-name="ADN noticias HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1041-1760566055.png" group-title="Español",ADN noticias HD
+https://lpro-portal000.x3tunnel.com:8443/alpha/adn40/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-C1036-1747814644_thumb.png" group-title="Entretenimiento",A&E
+https://lpro-portal000.x3tunnel.com:8443/Dmx/214AELatino/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1038-1748542868.png" group-title="Español",A&E Mx HD
+https://lpro-portal000.x3tunnel.com:8443/lista/eventox21/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1037-1748542996.png" group-title="Inglés",A&E USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9419AE/chunks.m3u8?md5=Zb9kxp07qCvtUP2F5w6oiQ&expires=1782690149&token=f2-com.mitvpro.android.ott&md5=I2T4FsDykbbhduBF_VtFSw&expires=1782787350
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1051-1748542779.png" group-title="Español",Adult Swim Mx
+https://lpro-portal000.x3tunnel.com:8443/Dmx/222ISAT/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1460-1749017819.png" group-title="Español",Adult Swim Mx HD
+https://lpro-portal000.x3tunnel.com/beto/UNIVERSALKids/chunks.m3u8?md5=e2PlCKmBAH8Ayo58WA0z5Q&expires=1782690150&token=f2-com.mitvpro.android.ott&md5=I2T4FsDykbbhduBF_VtFSw&expires=1782787350
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1050-1748585960.png" group-title="Entretenimiento",Adult Swim USA HD
+https://lpro-portal000.x3tunnel.com:8443/Dusa/9463TOON/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1053-1748542722.png" group-title="Entretenimiento",Animal Planet
+https://lpro-portal000.x3tunnel.com:8443/Dmx/408animalplanet/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1052-1748542748.png" group-title="Entretenimiento",Animal Planet HD
+https://lpro-portal000.x3tunnel.com:8443/Bodega/evento2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1054-1748542693.png" group-title="Entretenimiento",Animal Planet USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9489APL/chunks.m3u8?md5=UxXyeWnVMJTNN8HwHG1Isw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Internacional" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1055-1748542668.png" group-title="Internacionales",Antena 3 Internacional
+https://lpro-portal000.x3tunnel.com/Dmx/219Antena3/chunks.m3u8?md5=_Jwz_9yP_vsOt9xZjxrTfA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Inter HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1056-1748542643.png" group-title="Internacionales",Antena 3 Inter HD
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in11/chunks.m3u8?md5=-28Ap7kcoKJYjdkZ5pSIBA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1042-1748542612.png" group-title="Entretenimiento",AMC
+https://lpro-portal000.x3tunnel.com/beto/amc/chunks.m3u8?md5=as7Xij0_S0GtPBCbMsfNdQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="AMC USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1043-1748542584.png" group-title="Entretenimiento",AMC USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9417AMC/chunks.m3u8?md5=WMnbKHCX9Ekgpdm0QQ0RSw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Aprende+" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1234-1748586390.png" group-title="Culturales",Aprende+
+https://lpro-portal000.x3tunnel.com/Dmx/131ingenioTV/chunks.m3u8?md5=prRVfmXqkzgpuzngvKZPcQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1044-1748542543.png" group-title="Internacionales",Arirang
+https://lpro-portal000.x3tunnel.com/beto/ARIRANG/chunks.m3u8?md5=A5b7f_6cri64323cx5l7rQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ARTS" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1057-1748542509.png" group-title="Español",ARTS
+https://lpro-portal000.x3tunnel.com/Dmx/416arts/chunks.m3u8?md5=EpEsTg8OTWQ9XoZHHF4PNg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Atreseries" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1039-1748542462.png" group-title="Entretenimiento",Atreseries
+https://lpro-portal000.x3tunnel.com/Dmx/230Atres/chunks.m3u8?md5=Zo4Hlg_Xt7oieQi15AobFw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="A3s HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/countries/argentina/atreseries-ar.png" group-title="Español",A3s HD
+https://lpro-portal000.x3tunnel.com/cripto/A3sHD/chunks.m3u8?md5=x-tfdGFRiKf6uwjpjmHxCA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1045-1748542424.png" group-title="Entretenimiento",AXN
+https://lpro-portal000.x3tunnel.com/Dmx/213AXNLatinoAmerica/chunks.m3u8?md5=zFb5zv4l74Tn-qbcZulO-w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1046-1748542364.png" group-title="Entretenimiento",AXN HD
+https://lpro-portal000.x3tunnel.com/andromeda/AXN/chunks.m3u8?md5=RGzR6AqZQucJY2fzSKWiIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="AXS HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1047-1748542325.png" group-title="Inglés",AXS HD
+https://lpro-portal000.x3tunnel.com/lista/eventox24/chunks.m3u8?md5=GgdeT0IhQRKA9Q7iX4irTA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1048-1748542290.png" group-title="Deportes",AyM Sports
+https://lpro-portal000.x3tunnel.com/Dmx/406NatGeoWild/chunks.m3u8?md5=ilXFxMd7pgyu60pEUP67hA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1058-1748542243.png" group-title="Entretenimiento",Azteca 7
+https://lpro-portal000.x3tunnel.com/Dmx/107azteca7/chunks.m3u8?md5=AxmVsECkDsMi1qpqfs00-Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1059-1748542213.png" group-title="Entretenimiento",Azteca 7 HD
+https://lpro-portal000.x3tunnel.com/alpha/aztecaMTY/chunks.m3u8?md5=0R9m7QmkwsQ--uFXJhplDg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1060-1748542187.png" group-title="Español",Azteca Deportes
+https://lpro-portal000.x3tunnel.com/beto/AztecaDepNet/chunks.m3u8?md5=JchmfYUxniplgLctzs4Z9A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1061-1748542131.png" group-title="Español",Azteca Uno
+https://lpro-portal000.x3tunnel.com/Dmx/113azteca13/chunks.m3u8?md5=nHOemrDPH2yCdOmJWL6PUw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1062-1748542099.png" group-title="Español",Azteca Uno HD
+https://lpro-portal000.x3tunnel.com/alpha/uno/chunks.m3u8?md5=H8rm7ipRknVuOgG8Jzx3Dw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1072-1748542069.png" group-title="Música",Bandamax HD
+https://lpro-portal000.x3tunnel.com/Rulas/encoder70-goltv/chunks.m3u8?md5=YJCgsZiV5eQSiOTpKwNkoA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1071-1748542018.png" group-title="Infantiles",Baby Tv
+https://lpro-portal000.x3tunnel.com/Dmx/315BabyTVLatinAmerica/chunks.m3u8?md5=xs8ClT9u65gheiNxp7POHQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="BBC America" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1063-1748541989.png" group-title="Internacionales",BBC America
+https://lpro-portal000.x3tunnel.com/Dusa/9450BBCAI/chunks.m3u8?md5=YHlvuHyF3ks2JpUuitBgCw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1065-1748541932.png" group-title="Deportes",beIN Sports HD
+https://lpro-portal000.x3tunnel.com/Dusa/9611BeinIng/chunks.m3u8?md5=ChRF4CAVn757B7Ry6akTEw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD ALT" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1064-1748541962.png" group-title="Deportes",BeIN Sports HD ALT
+https://lpro-portal000.x3tunnel.com/andromeda/BEINENG/chunks.m3u8?md5=_LHQgk9AGwWRpr9A1KBYww&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="beIN Español HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1067-1748541857.png" group-title="Deportes",beIN Español HD
+https://lpro-portal000.x3tunnel.com/Dusa/9592BEINE/chunks.m3u8?md5=MYnce158Fd6-MEiijDiqug&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="beIN Español HD ALT" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1066-1748541898.png" group-title="Deportes",beIN Español HD ALT
+https://lpro-portal000.x3tunnel.com/andromeda/BEINES/chunks.m3u8?md5=Jz7t8Yzr97O7r97y83VV6A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="BET HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1068-1748541808.png" group-title="Entretenimiento",BET HD
+https://lpro-portal000.x3tunnel.com/Dusa/9510BET/chunks.m3u8?md5=-TiXLoicAiUf2A28NtdAjg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Bitme" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1073-1748541762.png" group-title="Infantiles",Bitme
+https://lpro-portal000.x3tunnel.com/beto/Bitme/chunks.m3u8?md5=ku-l7FSEwpDh0nAHm_a-0Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1069-1748541732.png" group-title="Inglés",BRAVO HD
+https://lpro-portal000.x3tunnel.com/Dusa/9492BRAVO/chunks.m3u8?md5=kF7rwWBAUYWSUHSZOM3AYg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1070-1748586665.png" group-title="Adultos",Brazzers TV
+https://lpro-portal000.x3tunnel.com/Dusa/493BRAZZ/chunks.m3u8?md5=vUoq4UYSP0ryVjNxZlrq-Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1301-1748488734.png" group-title="Español",Canal Once
+https://lpro-portal000.x3tunnel.com/Dmx/111OnceTvMexico/chunks.m3u8?md5=8TP2kSKNXNVinwYC7DWLQA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1391-1748578418.png" group-title="Español",Canal 14
+https://lpro-portal000.x3tunnel.com/Dmx/130unavoz/chunks.m3u8?md5=g98wc--Lbgqsiq2lEZ4geg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1079-1748541699.png" group-title="Español",Canal 22
+https://lpro-portal000.x3tunnel.com/Dmx/122canal22/chunks.m3u8?md5=TthWXXEALyOCRvDgJM2-fA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22-2" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1080-1748541669.png" group-title="Español",Canal 22-2
+https://lpro-portal000.x3tunnel.com/Dmx/304Canal222/chunks.m3u8?md5=C8iE22hgj8ibf3tAxVjsWA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 28 MTY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1081-1748541641.png" group-title="Español",Canal 28 MTY
+https://lpro-portal000.x3tunnel.com/alpha/28mty/chunks.m3u8?md5=JvWlBu5PrjHD5F6vz1c-Pg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1082-1748541604.png" group-title="Español",Canal 5
+https://lpro-portal000.x3tunnel.com/Dmx/105canal5/chunks.m3u8?md5=M4R0XYNOxW7wi8yNL1WAgg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1083-1748541564.png" group-title="Entretenimiento",Canal 5 HD
+https://lpro-portal000.x3tunnel.com/alpha/cinco/chunks.m3u8?md5=DFLqAX0ip3LAbHYHdEPWZg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 MTY HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1084-1748541488.png" group-title="Español",Canal 6 MTY HD
+https://lpro-portal000.x3tunnel.com/alpha/MultimediosMTY/chunks.m3u8?md5=ZKguaqf4Gu7UIgQFqweaqg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 PLUS" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1085-1748541437.png" group-title="Español",Canal 6 PLUS
+https://lpro-portal000.x3tunnel.com/Dmx/MultimediosPlus/chunks.m3u8?md5=m5PprGlzX0vFb6TQiUFDhA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1086-1748541404.png" group-title="Español",Canal del Congreso
+https://lpro-portal000.x3tunnel.com/Dmx/145congreso/chunks.m3u8?md5=VNzB8Nl5Gwz6MnpcP7xOhA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1087-1748541372.png" group-title="Infantiles",Cartoon Network
+https://lpro-portal000.x3tunnel.com/Dmx/307CartoonNetwork/chunks.m3u8?md5=vn3cpQWhnmYcFGser5ZrKw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1088-1748541344.png" group-title="Infantiles",Cartoon Network HD
+https://lpro-portal000.x3tunnel.com/beto/CARTOON/chunks.m3u8?md5=LQAyR7-PnBjmPrq_XSqsvg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1089-1748541305.png" group-title="Infantiles",Cartoonito
+https://lpro-portal000.x3tunnel.com/Dmx/308BoomerangMexico/chunks.m3u8?md5=owsAI3QwfxCneUuTGhMUDQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1090-1748541265.png" group-title="Infantiles",Cartoonito HD
+https://lpro-portal000.x3tunnel.com/beto/CARTOONITO/chunks.m3u8?md5=sjlGn-PEQd0ZGMPAsEJSIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CBS LA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1236-1748586835.png" group-title="Networks",CBS LA
+https://lpro-portal000.x3tunnel.com/canada/cbsLA/chunks.m3u8?md5=WB_t-nZ_zkmhChN3ZYtpOQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CBS MIAMI" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1267-1748489440.png" group-title="Networks",CBS MIAMI
+https://lpro-portal000.x3tunnel.com/canada/cbsMI/chunks.m3u8?md5=JCyCnYPhIAMfGzBaArNoXA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CBS NY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1296-1748489488.png" group-title="Networks",CBS NY
+https://lpro-portal000.x3tunnel.com/canada/cbsNY/chunks.m3u8?md5=i1MChuHBX5KbILMOsPq_GA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CBS TX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1447-1748491145.png" group-title="Inglés",CBS TX
+https://lpro-portal000.x3tunnel.com/canada/cbsNY/chunks.m3u8?md5=i1MChuHBX5KbILMOsPq_GA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1074-1748469133.png" group-title="Deportes",CBS Sports Network
+https://lpro-portal000.x3tunnel.com/Dusa/9495CBSSN/chunks.m3u8?md5=V18neZfdNWW_Th3vzOUc8A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1091-1748541157.png" group-title="1 Mbps",Cine Latino
+https://lpro-portal000.x3tunnel.com/Dmx/608CineLatino/chunks.m3u8?md5=aG6JnELrksbZco-UTaL89Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino  HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1092-1748541125.png" group-title="Español",Cinelatino  HD
+https://lpro-portal000.x3tunnel.com/andromeda/CINELATINO/chunks.m3u8?md5=HCLlPaGuPClV8amVARNHVA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1094-1748541095.png" group-title="1 Mbps",Cinecanal
+https://lpro-portal000.x3tunnel.com/Dmx/664Cinecanal/chunks.m3u8?md5=uTuyobF2-GmNKOENvTWemw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1093-1748541065.png" group-title="Español",Cinecanal HD
+https://lpro-portal000.x3tunnel.com/beto/CINECANAL/chunks.m3u8?md5=TS4ZnD4S2l0KeJOhIL-Epg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1095-1748541031.png" group-title="1 Mbps",Cinemax
+https://lpro-portal000.x3tunnel.com/Dmx/603Cinemax/chunks.m3u8?md5=j4n43zl6Wnp3w4hxtDCUWA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1096-1748541003.png" group-title="Español",Cinemax HD
+https://lpro-portal000.x3tunnel.com/lista/eventox11/chunks.m3u8?md5=f1za2dIbZtiSb7talSvsaQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1097-1748540960.png" group-title="1 Mbps",Claro Sports
+https://lpro-portal000.x3tunnel.com/Dmx/504clarosport/chunks.m3u8?md5=i7LM9vi99UuEf61dOqjA_w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1098-1748540929.png" group-title="Deportes",Claro Sports HD
+https://lpro-portal000.x3tunnel.com/beto/ClaroSports/chunks.m3u8?md5=HZeMQ2snEzkwuuoopiZBpA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CMT HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1075-1748540889.png" group-title="Música",CMT HD
+https://lpro-portal000.x3tunnel.com/Dusa/9493CMT/chunks.m3u8?md5=Et055VqlGAirav6aqp-Ojg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CNBC HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1076-1748540860.png" group-title="Inglés",CNBC HD
+https://lpro-portal000.x3tunnel.com/Dusa/9439CNBC/chunks.m3u8?md5=hWRRYuMnshPLruyo2xTUmQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1077-1748540807.png" group-title="1 Mbps",CNN
+https://lpro-portal000.x3tunnel.com/Dmx/702CNN/chunks.m3u8?md5=hsrT15E7hBZCYyWGEPpcdg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA SD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1078-1748540757.png" group-title="1 Mbps",CNN USA SD
+https://lpro-portal000.x3tunnel.com/Dmx/703CNNusa/chunks.m3u8?md5=YEmyk6V-JbioeytRXcEKlQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1650-1757655544.png" group-title="Inglés",CNN USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9436CNN/chunks.m3u8?md5=VqPnyHRjXbL04B8g6R8qtQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1099-1748540707.png" group-title="1 Mbps",Comedy Central
+https://lpro-portal000.x3tunnel.com/Dmx/225CMEDY/chunks.m3u8?md5=aH7-nhiFNOZk6aSqmBdddQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1100-1748540670.png" group-title="Español",Comedy Central HD
+https://lpro-portal000.x3tunnel.com/beto/COMEDYCENTRAL/chunks.m3u8?md5=xWP7LZTclDYn0A8CS9Ztiw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1101-1748540624.png" group-title="Inglés",Comedy Central USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9485CMDY/chunks.m3u8?md5=JUrNKcWDhahs0oMfxox4NA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1102-1748540579.png" group-title="Inglés",Cooking Channel HD
+https://lpro-portal000.x3tunnel.com/Dusa/9447COOK/chunks.m3u8?md5=cQUs6lVPxuwMvHQ2tMC3NQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1103-1748540507.png" group-title="Inglés",Cowboy Channel HD
+https://lpro-portal000.x3tunnel.com/Dusa/9684COWBOY/chunks.m3u8?md5=ARhJsISOqdoyf-WODtpRDA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1158-1748540465.png" group-title="Deportes",DAZN F1
+https://lpro-portal000.x3tunnel.com/canada/Formula1Dazn/chunks.m3u8?md5=61Xw0T46sNWVgNHH5anJoA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="De Película HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1105-1748540384.png" group-title="Español",De Película HD
+https://lpro-portal000.x3tunnel.com/beto/Dpelicula/chunks.m3u8?md5=21FuHtQ-q_z_dtpLdAHDSw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1106-1748540353.png" group-title="Español",De Pelicula Plus HD
+https://lpro-portal000.x3tunnel.com/Rulas/DTHEATER/chunks.m3u8?md5=La6Ti6A9r8sgHeHopr1kuQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Destination America HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1108-1748540304.png" group-title="Inglés",Destination America HD
+https://lpro-portal000.x3tunnel.com/lista/eventox22/chunks.m3u8?md5=i-LlAB5a89U1NP9M66RDZg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports AR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1109-1748540273.png" group-title="Deportes",DIRECTV Sports AR HD
+https://lpro-portal000.x3tunnel.com/canada/DirectvSP1/chunks.m3u8?md5=jD_B3TPV4PAxQ77xwv8Gtw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports 2 AR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1110-1748540238.png" group-title="Deportes",DIRECTV Sports 2 AR HD
+https://lpro-portal000.x3tunnel.com/canada/DirectvSP2/chunks.m3u8?md5=1qqmP8cUUwDJMY7jV-1W7g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1111-1748540103.png" group-title="1 Mbps",Discovery Mx
+https://lpro-portal000.x3tunnel.com/Dmx/402discoverychannel/chunks.m3u8?md5=2vYaAYB2tibaXidiP3WG_A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1112-1748540064.png" group-title="Español",Discovery Mx HD
+https://lpro-portal000.x3tunnel.com/beto/Discovery/chunks.m3u8?md5=TotzUWb-TiB6rAwPNjuEGw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1117-1748540034.png" group-title="Entretenimiento",Discovery USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9487DISC/chunks.m3u8?md5=B6GFy7h7Q052TOlNAhddcA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Español" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1118-1748540001.png" group-title="Español",Discovery Español
+https://lpro-portal000.x3tunnel.com/Dusa/9535DISCOVERYESP/chunks.m3u8?md5=_V17HDUKqM33wg8qf0nbyw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1113-1748539920.png" group-title="Infantiles",Discovery Family HD
+https://lpro-portal000.x3tunnel.com/Dusa/9494DISCF/chunks.m3u8?md5=s8a_BCf4OtmvN-L1lOoqJw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1414-1748491654.png" group-title="Culturales",Discovery H&H Mx
+https://lpro-portal000.x3tunnel.com/Dmx/215DiscoveryHHLatinoAmerica/chunks.m3u8?md5=x7QCymFGMJ4FKZeiwU5l7A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1415-1748491729.png" group-title="Culturales",Discovery H&H Mx HD
+https://lpro-portal000.x3tunnel.com/andromeda/DISCOVERYHH/chunks.m3u8?md5=FB5XhC8S-JAaIG9721pNpg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1228-1748470342.png" group-title="Español",Discovery ID Mx
+https://lpro-portal000.x3tunnel.com/Dmx/216I.D/chunks.m3u8?md5=TNn6SSAmxNK_ULvl-Na9Lw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1229-1748470393.png" group-title="Español",Discovery ID Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/ID/chunks.m3u8?md5=MdYsvVD8g1NPCBlUW9Q0Bg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1230-1748470472.png" group-title="Entretenimiento",Discovery ID USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9526ID/chunks.m3u8?md5=ilY2RpYnrEfAJjbaBaQpSg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1114-1748539892.png" group-title="1 Mbps",Discovery Kids
+https://lpro-portal000.x3tunnel.com/Dmx/310discoverykids/chunks.m3u8?md5=-W1f1Ol9xAzW6B_bjhIQ7Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1115-1748539867.png" group-title="Infantiles",Discovery Kids HD
+https://lpro-portal000.x3tunnel.com/beto/DiscoveriKids/chunks.m3u8?md5=bTTqztlPNKwi11LV_IFKcA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1317-1748492230.png" group-title="Culturales",Discovery Science Mx HD
+https://lpro-portal000.x3tunnel.com/lista/eventox16/chunks.m3u8?md5=WCZUtBdyy6Ld7DgLNxSGsA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1116-1748539835.png" group-title="Inglés",Discovery Science USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9490SCI/chunks.m3u8?md5=_-ab9hoCPZp8MYGakiFOYQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1375-1748492868.png" group-title="Culturales",Discovery Theater HD
+https://lpro-portal000.x3tunnel.com/lista/eventox15/chunks.m3u8?md5=p0fy6aGVBzyWFQBpfzUDng&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1379-1748493118.png" group-title="1 Mbps",Discovery Turbo Mx
+https://lpro-portal000.x3tunnel.com/Dmx/345turbo/chunks.m3u8?md5=X0jqeCk1MihUOgaeQa_orA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1380-1748493037.png" group-title="Culturales",Discovery Turbo Mx HD
+https://lpro-portal000.x3tunnel.com/beto/Turbo/chunks.m3u8?md5=NI4V1stRo8pbWcSDD8WIGw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1410-1748493211.png" group-title="Culturales",Discovery World Mx
+https://lpro-portal000.x3tunnel.com/Rulas/DWORLD/chunks.m3u8?md5=JlkNTeamfEUWZs3PHbMFWw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1120-1748539376.png" group-title="Infantiles",Disney Channel Mx
+https://lpro-portal000.x3tunnel.com/Dmx/302Disneychannel/chunks.m3u8?md5=-W4v85VFXJBooTDdrUnqAA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1104-1748539338.png" group-title="Infantiles",Disney Channel Mx HD
+https://lpro-portal000.x3tunnel.com/Rulas/encoder65-utdn/chunks.m3u8?md5=elDKGy2mCtcS06tN1nhF5A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1119-1748539414.png" group-title="Infantiles",Disney Channel USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9557DISE/chunks.m3u8?md5=0xjbLSLrY5O-1lKXQLOY0Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1121-1748539461.png" group-title="Infantiles",Disney Junior
+https://lpro-portal000.x3tunnel.com/Dmx/303DisneyJunior/chunks.m3u8?md5=20qDgzn_ZSRZjf5v5pFQ7g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1122-1748539492.png" group-title="Infantiles",Disney Junior HD
+https://lpro-portal000.x3tunnel.com/beto/DisneyJR/chunks.m3u8?md5=3hCAT5LDhFGcy8-rdRjD-g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1123-1748539526.png" group-title="Español",Distrito Comedia
+https://lpro-portal000.x3tunnel.com/beto/DISTRITOCOM/chunks.m3u8?md5=FCdLJdLSX-wdk1kpFFLQaQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Dodgers LA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1124-1748539565.png" group-title="Deportes",Dodgers LA HD
+https://lpro-portal000.x3tunnel.com/canada/DodgersLA/chunks.m3u8?md5=iBlxhj-ZdAZj0VhCGeAhAQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1125-1748539602.png" group-title="Infantiles",Dreamworks
+https://lpro-portal000.x3tunnel.com/Dmx/660fox1/chunks.m3u8?md5=HxP4ZZLgnfZvpIremYXWmg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1126-1748539635.png" group-title="Infantiles",Dreamworks HD
+https://lpro-portal000.x3tunnel.com/canada/DreamworksHD/chunks.m3u8?md5=W4WJWsVjuip-4mzQJZJvuw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="DW Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1107-1748539665.png" group-title="Internacionales",DW Mx
+https://lpro-portal000.x3tunnel.com/beto/DW/chunks.m3u8?md5=DXBA57MZxsbEwVEZnVhz7g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1127-1748539696.png" group-title="Español",E! Entertainment TV
+https://lpro-portal000.x3tunnel.com/Dmx/212E!Latino/chunks.m3u8?md5=yLuimLLIuUE1ZSlw9g2R-w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment TV HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1128-1748539730.png" group-title="Español",E! Entertainment TV HD
+https://lpro-portal000.x3tunnel.com/beto/EHD/chunks.m3u8?md5=YUQxmu7aqZnvx74LhK3kAQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="E! USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1129-1748539760.png" group-title="Inglés",E! USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9474E/chunks.m3u8?md5=xzjo8sbktPXNI9N13dm2_A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="El Canal Del Fútbol" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1130-1748539792.png" group-title="Deportes",El Canal Del Fútbol
+https://lpro-portal000.x3tunnel.com/lista/eventox18/chunks.m3u8?md5=7N1vx2DA8m-70A4pLzQ8oQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1195-1748543239.png" group-title="Español",El Gourmet
+https://lpro-portal000.x3tunnel.com/Dmx/241Gourmet/chunks.m3u8?md5=6p40HM3V1RJ1PYqsLwFcpA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1196-1748543272.png" group-title="Español",El Gourmet HD
+https://lpro-portal000.x3tunnel.com/andromeda/Gourmet/chunks.m3u8?md5=ZjwYPpOB_qvjELmFl2qBWw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1131-1748538337.png" group-title="Deportes",ESPN Mx
+https://lpro-portal000.x3tunnel.com/Dmx/506ESPN2/chunks.m3u8?md5=fWtgmUq-se1S8bit57BbmA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1141-1748543965.png" group-title="Deportes",ESPN Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/ESPNmx/chunks.m3u8?md5=hUGzJgXAIfCr2Xb4EQYvZQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1137-1748587622.png" group-title="Inglés",ESPN USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9424ESPN/chunks.m3u8?md5=Ka4fRR6ubFg2_aAmaCbXLg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1144-1748587661.png" group-title="Deportes",ESPN ARG HD
+https://lpro-portal000.x3tunnel.com/canada/EspnARG/chunks.m3u8?md5=MRTVyWSwiWJhruVz03hgVQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1147-1748587690.png" group-title="Deportes",ESPN Sur HD
+https://lpro-portal000.x3tunnel.com/canada/EspnSURAM/chunks.m3u8?md5=EnOgn_WFtc6-JieQ5PxKeA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1132-1748587728.png" group-title="Deportes",ESPN 2 Mx
+https://lpro-portal000.x3tunnel.com/Dmx/505ESPN/chunks.m3u8?md5=4O2OETkUXCfzRiUvx0Db1Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1138-1748622721.png" group-title="Deportes",ESPN 2 Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/ESPN2mx/chunks.m3u8?md5=M6pGbY8CadgPgOZd9zhCJA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1133-1748538417.png" group-title="Deportes",ESPN 2 USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9425ESPN2/chunks.m3u8?md5=Ab0KtZA8R8M0vqRFjEhP9g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1148-1748622817.png" group-title="Deportes",ESPN 2 ARG HD
+https://lpro-portal000.x3tunnel.com/canada/Espn2ARG/chunks.m3u8?md5=_psTr-TbbNBCymk7Y0Vn7A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1149-1748622887.png" group-title="Deportes",ESPN 2 SUR HD
+https://lpro-portal000.x3tunnel.com/canada/Espn2SURAM/chunks.m3u8?md5=SXmufkDa7Txnfrew5vJsyQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1134-1748622956.png" group-title="Deportes",ESPN 3 Mx
+https://lpro-portal000.x3tunnel.com/Dmx/507ESPN3/chunks.m3u8?md5=9tz0vQXh_ZG2IfbfHHwmBw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1135-1748623010.png" group-title="Deportes",ESPN 3 Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/ESPN3mx/chunks.m3u8?md5=d6B_5R49xxmOymcG7c5aRA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1150-1748623091.png" group-title="Deportes",ESPN 3 ARG HD
+https://lpro-portal000.x3tunnel.com/canada/Espn3ARG/chunks.m3u8?md5=sBKWOzJU7-KR5jjrWsDb5w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1151-1748587761.png" group-title="Deportes",ESPN 3 SUR HD
+https://lpro-portal000.x3tunnel.com/canada/Espn3SURAM/chunks.m3u8?md5=RwkQpqjsbeGVW0mfeGb1Ig&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1139-1748587796.png" group-title="Deportes",ESPN 4 Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/ESPN+/chunks.m3u8?md5=wX8H3HV1jG62O3MZw9rjpg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1152-1748587837.png" group-title="Deportes",ESPN 4 ARG HD
+https://lpro-portal000.x3tunnel.com/canada/Espn4ARG/chunks.m3u8?md5=IJQ1LCG4x0Wp4Qc_mD_3Dg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SUR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1153-1748587868.png" group-title="Deportes",ESPN 5 SUR HD
+https://lpro-portal000.x3tunnel.com/canada/Espn5SURAM/chunks.m3u8?md5=FG18SYk15z4QGZdZ95-f-g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 SUR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1154-1748587897.png" group-title="Deportes",ESPN 6 SUR HD
+https://lpro-portal000.x3tunnel.com/canada/Espn6SURAM/chunks.m3u8?md5=UcKTWTnboL34_2n-mbjtLQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SUR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1155-1748587936.png" group-title="Deportes",ESPN 7 SUR HD
+https://lpro-portal000.x3tunnel.com/canada/Espn7SURAM/chunks.m3u8?md5=vdknl2iqvt_bFJqbqvoBoQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1145-1748557981.png" group-title="Deportes",ESPN Premium ARG HD
+https://lpro-portal000.x3tunnel.com/canada/EspnPremiumARG/chunks.m3u8?md5=_AG6Yetq2V9ROhl1vTNRng&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium SUR HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1146-1748558102.png" group-title="Deportes",ESPN Premium SUR HD
+https://lpro-portal000.x3tunnel.com/canada/EspnPremSURAM/chunks.m3u8?md5=k5etTMyj_dEgXWV7Dgqb1A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1140-1748588043.png" group-title="Deportes",ESPN Deportes HD
+https://lpro-portal000.x3tunnel.com/Dusa/9560EspnDeportes/chunks.m3u8?md5=xz9DTq2iVaJ58Iiaq-Zwyw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes Alt HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1136-1748588074.png" group-title="Deportes",ESPN Deportes Alt HD
+https://lpro-portal000.x3tunnel.com/Rulas/encoder82-evento16/chunks.m3u8?md5=ykpztloPqsM02C-za90geA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ESPNU HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1142-1748588105.png" group-title="Deportes",ESPNU HD
+https://lpro-portal000.x3tunnel.com/Dusa/9531ESPNU/chunks.m3u8?md5=kFtsefbdwAeodahWtf2X5w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1156-1748538700.png" group-title="Español",Estrella TV HD
+https://lpro-portal000.x3tunnel.com/lista/eventox3/chunks.m3u8?md5=SlFSiafaanK4lG1obl_q-w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Europa News" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1143-1748538762.png" group-title="Internacionales",Europa News
+https://lpro-portal000.x3tunnel.com/beto/EURONEWS/chunks.m3u8?md5=KTZcpm_bpOsiTFtHPUBVTw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="EXA TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1157-1748538796.png" group-title="Música",EXA TV
+https://lpro-portal000.x3tunnel.com/Dmx/252NU/chunks.m3u8?md5=TihCdnYfCFWwzKle1_Le6w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fast&fun box" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1173-1748588171.png" group-title="Entretenimiento",Fast&fun box
+https://lpro-portal000.x3tunnel.com/Dmx/502FoxSport1/chunks.m3u8?md5=kptIXxVjp3U8clc-1M5lUA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FightBOX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1174-1748588216.png" group-title="Deportes",FightBOX
+https://lpro-portal000.x3tunnel.com/Dmx/667Fmovies/chunks.m3u8?md5=0Q_tBD2t2Cu78whpO2Cl5w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FILM&ARTS HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1459-1748583037.png" group-title="1 Mbps",FILM&ARTS HD
+https://lpro-portal000.x3tunnel.com/beto/FILMAndART/chunks.m3u8?md5=y5inkYgVHMYweWi92DDvWA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Food Network USA Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1177-1748588307.png" group-title="Culturales",Food Network USA Mx
+https://lpro-portal000.x3tunnel.com/beto/FOODlat/chunks.m3u8?md5=sOEwtIPjOp9ldhHgXrnwAA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOOD HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1176-1748588268.png" group-title="Culturales",FOOD HD
+https://lpro-portal000.x3tunnel.com/Dusa/9462FOOD/chunks.m3u8?md5=z-S8PidCygBHkZJzBhfI_w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1178-1748538853.png" group-title="Noticias",Foro TV HD
+https://lpro-portal000.x3tunnel.com/mark/forotv/chunks.m3u8?md5=eiUzjSd1RBvKYg9zBnp8FQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV HD Alt" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1179-1748588446.png" group-title="Noticias",Foro TV HD Alt
+https://lpro-portal000.x3tunnel.com/alpha/ForoTV/chunks.m3u8?md5=ger6t6eK3_rcyo9xM63wvQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX BUSINESS" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1180-1748583204.png" group-title="Noticias",FOX BUSINESS
+https://lpro-portal000.x3tunnel.com/Dusa/9476FOXB/chunks.m3u8?md5=IEV7q3ZYWkP7_qh6o7hHOw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX LA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1182-1748583288.png" group-title="Networks",FOX LA
+https://lpro-portal000.x3tunnel.com/lista/eventox8/chunks.m3u8?md5=O7HF2Y0pJ2nFhIKIMVZ4Sw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX MIAMI" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1268-1748583592.png" group-title="Networks",FOX MIAMI
+https://lpro-portal000.x3tunnel.com/canada/foxMI/chunks.m3u8?md5=stviSLBaXR9HA8EVRpxqnw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX NY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1297-1748583793.png" group-title="Networks",FOX NY
+https://lpro-portal000.x3tunnel.com/canada/foxNY/chunks.m3u8?md5=s2UH7LnrdsPFQghcA-QsSg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX TX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1448-1748588533.png" group-title="Inglés",FOX TX
+https://lpro-portal000.x3tunnel.com/canada/foxTX/chunks.m3u8?md5=PS_2avAgctflYggYRsmtxA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1181-1748588601.png" group-title="Noticias",FOX NEWS HD
+https://lpro-portal000.x3tunnel.com/Dusa/9477FXNWS/chunks.m3u8?md5=FL5grX9rSQTvFiAh1xQ2mw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1159-1769891013.png" group-title="Español",FOX Deportes HD
+https://lpro-portal000.x3tunnel.com/Rulas/encoder80-evento14/chunks.m3u8?md5=C8NpR1WCZLzCMxsmRlY1Qg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1664-1769831868.png" group-title="Deportes",Fox Soccer Plus HD
+https://lpro-portal000.x3tunnel.com/beto/PARAMOUNT/chunks.m3u8?md5=_JzMOfrUWAftYWjA9RyOwg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1160-1764405169.png" group-title="Deportes",Fox Sports HD
+https://lpro-portal000.x3tunnel.com/alpha/FOXSPMX/chunks.m3u8?md5=DZ02_FY-TVg-PATy0YNg-A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD Alt" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1161-1764405230.png" group-title="Español",Fox Sports HD Alt
+https://lpro-portal000.x3tunnel.com/Bodega/evento/chunks.m3u8?md5=ybXgJNPY9pFR1WY5R25R2g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1185-1748539041.png" group-title="Deportes",Fox Sports ARG HD
+https://lpro-portal000.x3tunnel.com/canada/FoxspARG/chunks.m3u8?md5=sj_3gOkxlCiuvA785KvRuw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1162-1764405321.png" group-title="Deportes",Fox Sports 2 HD
+https://lpro-portal000.x3tunnel.com/alpha/FOXSP2MX/chunks.m3u8?md5=3gR9ftRVnOnaLy9BV-mnGw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD Alt" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1163-1764405377.png" group-title="Deportes",Fox Sports 2 HD Alt
+https://lpro-portal000.x3tunnel.com/lista/comodin29/chunks.m3u8?md5=m6-557TwKPdlnlTZDMcbfQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1186-1748588809.png" group-title="Deportes",Fox Sports 2 ARG HD
+https://lpro-portal000.x3tunnel.com/canada/Foxsp2ARG/chunks.m3u8?md5=YhAGcGJRQmqCHrLrzVUpCg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1164-1764404991.png" group-title="Deportes",Fox Sports 3 HD
+https://lpro-portal000.x3tunnel.com/alpha/FOXSP3MX/chunks.m3u8?md5=MCuE7e0W8DZ8js1YCwpw0w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 ARG HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1187-1748588892.png" group-title="Deportes",Fox Sports 3 ARG HD
+https://lpro-portal000.x3tunnel.com/canada/Foxsp3ARG/chunks.m3u8?md5=a8yzZAWOz7pybRVHmaWkvw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1183-1748588936.png" group-title="Deportes",Fox Sports Premium HD
+https://lpro-portal000.x3tunnel.com/alpha/FOXSPPremium/chunks.m3u8?md5=-uyo3ZAo2C5utlw1ZBn5nA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Prem HD Alt" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1184-1748623199.png" group-title="Deportes",Fox Sports Prem HD Alt
+https://lpro-portal000.x3tunnel.com/andromeda/foxpremiumx/chunks.m3u8?md5=wVtI2Vghsc0rCynI5CKMcg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1165-1763838110.png" group-title="Deportes",FOX
+https://lpro-portal000.x3tunnel.com/Bodega/evento4/chunks.m3u8?md5=CR4gCu09bSgfpZM5eIyeZg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FOX +" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1666-1770364415.png" group-title="Español",FOX +
+https://lpro-portal000.x3tunnel.com/Bodega/evento3/chunks.m3u8?md5=-YmWXUQmD31wgTfvvAvOBw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FREEFORM HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1188-1748588972.png" group-title="Inglés",FREEFORM HD
+https://lpro-portal000.x3tunnel.com/Dusa/9558FRFM/chunks.m3u8?md5=LwnchWL5PNM8_RxqGipbrw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FS1 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1166-1748589003.png" group-title="Deportes",FS1 HD
+https://lpro-portal000.x3tunnel.com/Dusa/9468FOXS1/chunks.m3u8?md5=toibb4jOkuweOZOkXgQOnw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FS2 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1167-1748589032.png" group-title="Deportes",FS2 HD
+https://lpro-portal000.x3tunnel.com/lista/eventox9/chunks.m3u8?md5=H9FP4Y_oFBnaii0prcrXsw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FX Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1168-1748589063.png" group-title="Entretenimiento",FX Mx
+https://lpro-portal000.x3tunnel.com/Dmx/207FXLatin/chunks.m3u8?md5=WGn9zE2YyOnyY12kWNgS_A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FX Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1169-1748589092.png" group-title="Entretenimiento",FX Mx HD
+https://lpro-portal000.x3tunnel.com/lista/eventox13/chunks.m3u8?md5=aLRQ9aDvIwQ_O5lzwvNmig&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FX USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1170-1748589132.png" group-title="Entretenimiento",FX USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9475FX/chunks.m3u8?md5=XztvmHwKbprFSYnqWcO0Kg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FXX HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1171-1748589163.png" group-title="Entretenimiento",FXX HD
+https://lpro-portal000.x3tunnel.com/Dusa/9520FXX/chunks.m3u8?md5=IadhSCnDIgJFAbY9R5Yojg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="FYI HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1172-1748589208.png" group-title="Entretenimiento",FYI HD
+https://lpro-portal000.x3tunnel.com/Dusa/9443FYI/chunks.m3u8?md5=1kqIkD5IDnSSvJ5pp72w3w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Galavision Miami HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1191-1749015232.png" group-title="Español",Galavision Miami HD
+https://lpro-portal000.x3tunnel.com/Dusa/9602GLVSN/chunks.m3u8?md5=JnFDNKStzMu7WTddjevNhQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Galavision NY HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1500-1749015305.png" group-title="Español",Galavision NY HD
+https://lpro-portal000.x3tunnel.com/Dusa/9602GLVSN/chunks.m3u8?md5=JnFDNKStzMu7WTddjevNhQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Galavision TX HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1450-1748589373.png" group-title="Español",Galavision TX HD
+https://lpro-portal000.x3tunnel.com/Dusa/9602GLVSN/chunks.m3u8?md5=JnFDNKStzMu7WTddjevNhQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="GAME TOONG" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1192-1748589334.png" group-title="1 Mbps",GAME TOONG
+https://lpro-portal000.x3tunnel.com/Dmx/605CineCanalPrime/chunks.m3u8?md5=lwhhKAupy8S3Z4XX5cFS6A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="GAME SHOW Network HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1190-1748623462.png" group-title="Inglés",GAME SHOW Network HD
+https://lpro-portal000.x3tunnel.com/Dusa/9448GSN/chunks.m3u8?md5=Yjjle1eBE5B0BcJ_U57zzg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Golden Multiplex" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1193-1748589410.png" group-title="Películas",Golden Multiplex
+https://lpro-portal000.x3tunnel.com/beto/GOLDENMULTIPLEX/chunks.m3u8?md5=Xq4ucjZrEvVxDqz9WHmyvA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1194-1748539126.png" group-title="Español",Golden Premier
+https://lpro-portal000.x3tunnel.com/Dmx/UFCNET/chunks.m3u8?md5=4P7IT3OJnHJNiMMoKeTJ1Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1189-1748589541.png" group-title="Deportes",GOLF CHANNEL HD
+https://lpro-portal000.x3tunnel.com/Dusa/9473GOLF/chunks.m3u8?md5=oEZBHbCmsdQI2-miphAJMA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="H2 History Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1197-1748539166.png" group-title="1 Mbps",H2 History Mx
+https://lpro-portal000.x3tunnel.com/Dmx/413H2/chunks.m3u8?md5=yyT1mxk68e1giNrXGkqtSQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="H2 History Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1198-1748539195.png" group-title="Español",H2 History Mx HD
+https://lpro-portal000.x3tunnel.com/beto/H2/chunks.m3u8?md5=pmKmw3hy6_93CmJyq_NKpg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1220-1748469678.png" group-title="Entretenimiento",Hallmark Channel HD
+https://lpro-portal000.x3tunnel.com/Dusa/9482HLMRK/chunks.m3u8?md5=PnpW80pvmk_Z2LZJ3ZPLRA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Mystery HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1221-1748469711.png" group-title="Entretenimiento",Hallmark Mystery HD
+https://lpro-portal000.x3tunnel.com/Dusa/9444HMM/chunks.m3u8?md5=djHfofE1UgMo4FdjtDanOA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1208-1748589612.png" group-title="1 Mbps",HBO
+https://lpro-portal000.x3tunnel.com/Dmx/650HBO/chunks.m3u8?md5=NFemlwjFL680JWtpK0kM-Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1203-1748589668.png" group-title="Películas",HBO HD
+https://lpro-portal000.x3tunnel.com/lista/eventox6/chunks.m3u8?md5=AcaXZCP9HqqApv-cxNOUiw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO W USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1207-1748589744.png" group-title="Inglés",HBO W USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9451HBOCY/chunks.m3u8?md5=9soxzK1tnIAyWJ0V5GZwag&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1199-1748589712.png" group-title="Español",HBO 2
+https://lpro-portal000.x3tunnel.com/Dmx/651HBO2/chunks.m3u8?md5=FMF_iOwF_fPVvPQ2HvxcHQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1213-1748589807.png" group-title="Películas",HBO 2 HD
+https://lpro-portal000.x3tunnel.com/beto/HBO2/chunks.m3u8?md5=61h2W0wyoDSm6lGwdcMPCg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1200-1748590128.png" group-title="Películas",HBO 2 USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9454HBOSG/chunks.m3u8?md5=SdmMJp21SnH54vVkAPBWlQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO East HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1212-1748589851.png" group-title="Inglés",HBO East HD
+https://lpro-portal000.x3tunnel.com/Dusa/9456HBO-E/chunks.m3u8?md5=rzYTDtjDneW_mBuJ700KKw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1201-1748589898.png" group-title="Películas",HBO Family
+https://lpro-portal000.x3tunnel.com/Dmx/652HBOFamily/chunks.m3u8?md5=LMCCB7Peeg0T7lYmE3F4Mw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1202-1748589934.png" group-title="Películas",HBO Family HD
+https://lpro-portal000.x3tunnel.com/beto/HBOfam/chunks.m3u8?md5=4smc6X4ZSQXDdUSN3s3ieg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Latino HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1214-1748589966.png" group-title="Español",HBO Latino HD
+https://lpro-portal000.x3tunnel.com/Dusa/9459HBOLT/chunks.m3u8?md5=HTgvWmGsA6hooZxC7aI1Qg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1204-1748590016.png" group-title="Películas",HBO Mundi
+https://lpro-portal000.x3tunnel.com/beto/HBOMUNDI/chunks.m3u8?md5=UV3a0lXEB-LAK9732iOEKA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1205-1748590056.png" group-title="Películas",HBO Plus
+https://lpro-portal000.x3tunnel.com/Dmx/654HBOPlus/chunks.m3u8?md5=vVbj8FuyKm1REcAsgKBWlQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1206-1748590089.png" group-title="Español",HBO Plus HD
+https://lpro-portal000.x3tunnel.com/beto/HBOPlus/chunks.m3u8?md5=XTvI_Sm_ziQ7v9RhXQuYNw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1209-1748590157.png" group-title="1 Mbps",HBO Xtreme Mx
+https://lpro-portal000.x3tunnel.com/Dmx/658MaxPrime/chunks.m3u8?md5=M44tiWBSmhbUAMICa-L3EA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1210-1749714472.png" group-title="Películas",HBO Xtreme HD
+https://lpro-portal000.x3tunnel.com/beto/HBOXTREME/chunks.m3u8?md5=PZpX8QOb2ySWn1t-hfGOeQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1211-1748543406.png" group-title="1 Mbps",HBO Zone
+https://lpro-portal000.x3tunnel.com/beto/HBOfam/chunks.m3u8?md5=4smc6X4ZSQXDdUSN3s3ieg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HDNet Movies HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1222-1748469796.png" group-title="Películas",HDNet Movies HD
+https://lpro-portal000.x3tunnel.com/Dusa/9423_HDNMV/chunks.m3u8?md5=WdgaSlqoVdvblPmTINOYEw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="History Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1223-1748469901.png" group-title="Español",History Mx
+https://lpro-portal000.x3tunnel.com/Dmx/409history/chunks.m3u8?md5=ERCI9PeSvZsF7uhub24t4g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="History Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1226-1748495999.png" group-title="Español",History Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/Historymx/chunks.m3u8?md5=ywEOH7LfIjWevRsKLy1VSQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="History Channel USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1224-1748469933.png" group-title="Entretenimiento",History Channel USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9491HIST/chunks.m3u8?md5=HMKAG1RTIG89GMyL9txrQA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="History Español" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1225-1748494395.png" group-title="1 Mbps",History Español
+https://lpro-portal000.x3tunnel.com/andromeda/HISTORY/chunks.m3u8?md5=CzF1cgzUmNAxS6E5hv6QCw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1215-1748590295.png" group-title="Español",HGTV
+https://lpro-portal000.x3tunnel.com/beto/HGTVlat/chunks.m3u8?md5=ZE3-8b6SYxX_bnqs97OYgQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HGTV USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1216-1748590323.png" group-title="Entretenimiento",HGTV USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9461HGTV/chunks.m3u8?md5=vR9SceUqLg5zqdd4r5PoJg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="¡HOLA! TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1227-1748493914.png" group-title="Entretenimiento",¡HOLA! TV
+https://lpro-portal000.x3tunnel.com/Dmx/218Hola/chunks.m3u8?md5=I8fDlv66kfYqscznc28GHw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="¡HOLA! TV HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1217-1748468716.png" group-title="Entretenimiento",¡HOLA! TV HD
+https://lpro-portal000.x3tunnel.com/beto/HolaTV/chunks.m3u8?md5=KWhyTDJBGxJHFj5IW4EWhA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1218-1748469526.png" group-title="1 Mbps",HTV
+https://lpro-portal000.x3tunnel.com/Dmx/260htv/chunks.m3u8?md5=XrCydWxzApaf7wSsQwBQ_A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Hustler TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1219-1748469566.png" group-title="Adultos",Hustler TV
+https://lpro-portal000.x3tunnel.com/Dusa/496HUSLR/chunks.m3u8?md5=rU5WWvFTSbxD6vHt2BQtnw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="IFC HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1231-1748576289.png" group-title="Entretenimiento",IFC HD
+https://lpro-portal000.x3tunnel.com/Dusa/9587IFC/chunks.m3u8?md5=mv8siXB6eb9yJzBhSy2b3Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Imagen" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1232-1748576203.png" group-title="1 Mbps",Imagen
+https://lpro-portal000.x3tunnel.com/Dmx/103Imagen/chunks.m3u8?md5=5vaMGQsfZTFCGjTRcpo2MQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Imagen HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1233-1748590460.png" group-title="Español",Imagen HD
+https://lpro-portal000.x3tunnel.com/alpha/imagentv/chunks.m3u8?md5=nbLO7vXNF7aMClMBZVoOqQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="INGENIO TV SD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1454-1748593333.png" group-title="1 Mbps",INGENIO TV SD
+https://lpro-portal000.x3tunnel.com/Dmx/131ingenioTV/chunks.m3u8?md5=prRVfmXqkzgpuzngvKZPcQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="KTLA LA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1237-1748577251.png" group-title="Networks",KTLA LA
+https://lpro-portal000.x3tunnel.com/beto/ktLA/chunks.m3u8?md5=W-WJGXez_NmIrUjdOxmO2Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="LAKERS TV HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1240-1748577674.png" group-title="Deportes",LAKERS TV HD
+https://lpro-portal000.x3tunnel.com/lista/eventox12/chunks.m3u8?md5=SbASG7aaexLEo0eoBiwyGg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="La 1 tve" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1242-1748577959.png" group-title="Internacionales",La 1 tve
+https://lpro-portal000.x3tunnel.com/beto/Warner/chunks.m3u8?md5=BFFsBwlPDeq0LRupB2B6zQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1243-1748578380.png" group-title="Deportes",La Liga
+https://lpro-portal000.x3tunnel.com/canada/Laliga/chunks.m3u8?md5=Z0k2cfMSeJ2BRrpJWenA3Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="La Mejor TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1244-1748593563.png" group-title="Música",La Mejor TV
+https://lpro-portal000.x3tunnel.com/Dmx/255exatv/chunks.m3u8?md5=kjH8UDxClbhiz4oQ7Urumw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="La Liga DAZN HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1245-1748593735.png" group-title="Deportes",La Liga DAZN HD
+https://lpro-portal000.x3tunnel.com/canada/LaligaDazn/chunks.m3u8?md5=8-FixVKGILZh3-UbY2Wrog&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1246-1748578629.png" group-title="Español",Las Estrellas
+https://lpro-portal000.x3tunnel.com/Dmx/102estrellas/chunks.m3u8?md5=DZMxZArCZlRCAQPdQ99wkw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1247-1748623887.png" group-title="Español",Las Estrellas HD
+https://lpro-portal000.x3tunnel.com/alpha/estrellas/chunks.m3u8?md5=-_INiAPszkzFd2stxifzKw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1249-1748593813.png" group-title="1 Mbps",Lifetime Mx
+https://lpro-portal000.x3tunnel.com/Dmx/414LIFET/chunks.m3u8?md5=ScIwMCNcrii7CiT-9Hy5Uw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1250-1748579494.png" group-title="Entretenimiento",Lifetime Mx HD
+https://lpro-portal000.x3tunnel.com/canada/LifetimeHD/chunks.m3u8?md5=8W94f8wRQqm2sZYvbHUE-w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1251-1748579582.png" group-title="Inglés",LIFETIME USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9470LIFE/chunks.m3u8?md5=J6O-pOryhohmLHyk7C_v8w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="LMN HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1241-1748579389.png" group-title="Entretenimiento",LMN HD
+https://lpro-portal000.x3tunnel.com/Dusa/9471LMN/chunks.m3u8?md5=MNfgjQBt5b0KTOTyUb7PoA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Mariavision" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1263-1748580523.png" group-title="Culturales",Mariavision
+https://lpro-portal000.x3tunnel.com/lista/eventox25/chunks.m3u8?md5=DcsuEVVI5P-FopstMsrv6w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="WiPR" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1465-1769831731.png" group-title="Locales PR",WiPR
+https://lpro-portal000.x3tunnel.com/PR/megatvpr/chunks.m3u8?md5=Ky6CKxNdlcTfsIjd05TZoQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MEXICANAL HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1265-1748580622.png" group-title="Entretenimiento",MEXICANAL HD
+https://lpro-portal000.x3tunnel.com/andrew/TLNOV/chunks.m3u8?md5=hrjasqi5e8tOmGoecx4yDg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1252-1748580403.png" group-title="1 Mbps",MC
+https://lpro-portal000.x3tunnel.com/Dmx/607MC/chunks.m3u8?md5=BtPoNdc0mUZZmEF-BoSenA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1270-1748581485.png" group-title="1 Mbps",Milenio
+https://lpro-portal000.x3tunnel.com/Dmx/710MilenioTV/chunks.m3u8?md5=e0dj0tjOVAhrQMuL-tV0Zg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1271-1748581586.png" group-title="Noticias",Milenio
+https://lpro-portal000.x3tunnel.com/alpha/Milenio/chunks.m3u8?md5=OBi69ZOunL7k1rH6Q_kVPw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1253-1748582293.png" group-title="Deportes",MLB Network HD
+https://lpro-portal000.x3tunnel.com/lista/eventox5/chunks.m3u8?md5=SNicXJ3tozjLoBl8IqNmGg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD ALT" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1254-1748582362.png" group-title="Deportes",MLB Network HD ALT
+https://lpro-portal000.x3tunnel.com/Dusa/9472MLBSZ/chunks.m3u8?md5=_WeDYl9F4ksf0eSaPAE3RA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MN Meganoticias" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1264-1748594539.png" group-title="Noticias",MN Meganoticias
+https://lpro-portal000.x3tunnel.com/Dmx/220TVC/chunks.m3u8?md5=lObSmBng176-LE5kg5AESQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1273-1749714287.png" group-title="Entretenimiento",MotorTrend
+https://lpro-portal000.x3tunnel.com/Dusa/4697VLCTY/chunks.m3u8?md5=oDiSFAlm3B9c6DmdPMoWxw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MTV Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1256-1748595880.png" group-title="1 Mbps",MTV Mx
+https://lpro-portal000.x3tunnel.com/Dmx/250mtvla/chunks.m3u8?md5=B031PqsmSgdnOfxe1__9Cw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MTV Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1259-1748596106.png" group-title="Música",MTV Mx HD
+https://lpro-portal000.x3tunnel.com/Rulas/ID/chunks.m3u8?md5=BtzSBMcqOb4NirJ6aruPag&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MTV USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1261-1748596305.png" group-title="Inglés",MTV USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9484MTV/chunks.m3u8?md5=GN7dWsHV6Y5kKu1u3ylzqA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MTV TR3S" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1274-1748596392.png" group-title="1 Mbps",MTV TR3S
+https://lpro-portal000.x3tunnel.com/andromeda/mtvtres/chunks.m3u8?md5=vCDprEBebZgAL6HuoLyPcg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1255-1748649536.png" group-title="1 Mbps",Multipremier
+https://lpro-portal000.x3tunnel.com/Dmx/606MultiPremiere/chunks.m3u8?md5=gz8JlAOj7eQBUgKg1YTk4w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MVS TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1262-1748649613.png" group-title="1 Mbps",MVS TV
+https://lpro-portal000.x3tunnel.com/Dmx/152mx52/chunks.m3u8?md5=H2tZxRe9MRxVB7GZ1z6h-g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1285-1748649742.png" group-title="Español",Nat Geo Mx
+https://lpro-portal000.x3tunnel.com/Dmx/405Natgeo/chunks.m3u8?md5=CQCIO8uAuK1nGDq7BGv_xA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1286-1748649804.png" group-title="Español",Nat Geo Mx HD
+https://lpro-portal000.x3tunnel.com/Rulas/encoder18-unicable/chunks.m3u8?md5=tT9BjVk2VwM5SHS55x2t_Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1287-1748649880.png" group-title="Culturales",Nat Geo USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9429NTGEO/chunks.m3u8?md5=5TARZ8l4_jyPMikFcQVQDA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1288-1748649961.png" group-title="Culturales",Nat Geo Wild HD
+https://lpro-portal000.x3tunnel.com/Dusa/9445NATG/chunks.m3u8?md5=ez-4LrQUbWWstStCm27gNQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1275-1748656187.png" group-title="Culturales",NASA TV
+https://lpro-portal000.x3tunnel.com/lista/eventox19/chunks.m3u8?md5=l2SwNCqDAeJjBr-zX5XJIw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1277-1748656349.png" group-title="1 Mbps",NBA TV
+https://lpro-portal000.x3tunnel.com/Dmx/503FoxSport2/chunks.m3u8?md5=AmLxTWWdCOXe8FfDTaRs4g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBA Net2" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1276-1748656284.png" group-title="Deportes",NBA Net2
+https://lpro-portal000.x3tunnel.com/Dusa/9508NBATV/chunks.m3u8?md5=kLTjmakrdLWG4z66CilCWg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC LA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1238-1748658958.png" group-title="Networks",NBC LA
+https://lpro-portal000.x3tunnel.com/canada/nbcLA/chunks.m3u8?md5=6PQe9np1iFf4jfrFpazHFQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC MIAMI" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1269-1748659047.png" group-title="Networks",NBC MIAMI
+https://lpro-portal000.x3tunnel.com/canada/nbcMI/chunks.m3u8?md5=eeMiwctym_HoT1alwGBQlQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC NY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1298-1748659214.png" group-title="Networks",NBC NY
+https://lpro-portal000.x3tunnel.com/canada/nbcNY/chunks.m3u8?md5=2f6du7q-8xq8cSOA9FnvTg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC TX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1416-1748659330.png" group-title="Networks",NBC TX
+https://lpro-portal000.x3tunnel.com/Rulas/encoder79-evento13/chunks.m3u8?md5=_Mzoelzjjd3EQRyDWcazhQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC Universo LA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1436-1748660642.png" group-title="Español",NBC Universo LA HD
+https://lpro-portal000.x3tunnel.com/lista/eventox1/chunks.m3u8?md5=2h_5zkwznE91CPbUeNfPIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC Universo Miami HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1279-1748660721.png" group-title="Español",NBC Universo Miami HD
+https://lpro-portal000.x3tunnel.com/lista/eventox1/chunks.m3u8?md5=2h_5zkwznE91CPbUeNfPIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC Universo NY HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1444-1748660808.png" group-title="Español",NBC Universo NY HD
+https://lpro-portal000.x3tunnel.com/lista/eventox1/chunks.m3u8?md5=2h_5zkwznE91CPbUeNfPIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NBC universo TX HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1451-1748660942.png" group-title="Español",NBC universo TX HD
+https://lpro-portal000.x3tunnel.com/lista/eventox1/chunks.m3u8?md5=2h_5zkwznE91CPbUeNfPIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1281-1748662579.png" group-title="1 Mbps",NFL NETWORK
+https://lpro-portal000.x3tunnel.com/Dmx/304DisneyXDNorte/chunks.m3u8?md5=UmdtsxmYH3ba9vbEahs4jA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1280-1748661589.png" group-title="Deportes",NFL Network HD
+https://lpro-portal000.x3tunnel.com/Dusa/9467NFLRZ/chunks.m3u8?md5=AnE086h1Zzj4rAZvO9qstw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1292-1748664436.png" group-title="1 Mbps",Nick
+https://lpro-portal000.x3tunnel.com/Dmx/305nickelodeon/chunks.m3u8?md5=hnIdSou25Lq782ZtkvnEGw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1289-1748664185.png" group-title="Infantiles",Nick HD
+https://lpro-portal000.x3tunnel.com/canada/NickHD/chunks.m3u8?md5=dR1G1ExQRvzj1lyikAp-Zw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon USA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1293-1748664505.png" group-title="Infantiles",Nickelodeon USA
+https://lpro-portal000.x3tunnel.com/Dusa/9416NICK/chunks.m3u8?md5=HuGsO82zFI6EUNYVX6NqxQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1290-1748664264.png" group-title="1 Mbps",Nick Jr.
+https://lpro-portal000.x3tunnel.com/Dmx/306NickJrLatinAmerica/chunks.m3u8?md5=u5t5ISkvcdlOIFs_j_buRQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1291-1748664370.png" group-title="Infantiles",Nick Jr. HD
+https://lpro-portal000.x3tunnel.com/canada/NickjrHD/chunks.m3u8?md5=NJZAL5WrfYLbgUTLoPcG3g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nu9ve" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1283-1748666274.png" group-title="Español",Nu9ve
+https://lpro-portal000.x3tunnel.com/alpha/nueve/chunks.m3u8?md5=-5fQ237g456XE25qcRu4hQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Nu9ve HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1284-1748666426.png" group-title="Español",Nu9ve HD
+https://lpro-portal000.x3tunnel.com/alpha/nueve/chunks.m3u8?md5=-5fQ237g456XE25qcRu4hQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Once niñas y niños" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1302-1748666507.png" group-title="Infantiles",Once niñas y niños
+https://lpro-portal000.x3tunnel.com/Dmx/133once2/chunks.m3u8?md5=99uotdrnSTQGLLtkVF1lFQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1303-1748666596.png" group-title="Deportes",ONETORO
+https://lpro-portal000.x3tunnel.com/lista/eventox4/chunks.m3u8?md5=8g-9vHMliRSbiIs_IdV1HQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1304-1748667212.png" group-title="Inglés",Outdoor Channel HD
+https://lpro-portal000.x3tunnel.com/Dusa/9619OTDCH/chunks.m3u8?md5=giL44fKcWLjmC6RQ99OAKg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1305-1748942278.png" group-title="Adultos",Playboy
+https://lpro-portal000.x3tunnel.com/Dusa/484Playboy/chunks.m3u8?md5=MffF3_vnvBP27N9H1OiePQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="OWN HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1300-1748667432.png" group-title="Entretenimiento",OWN HD
+https://lpro-portal000.x3tunnel.com/Dusa/9433OWN/chunks.m3u8?md5=67YnunkpUk7FRCpdAQxYdw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="PANICO HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1307-1748667658.png" group-title="Español",PANICO HD
+https://lpro-portal000.x3tunnel.com/canada/PanicoHD/chunks.m3u8?md5=Uh1zRLjUu8jLHeW5S_LbIw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Paramount USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1310-1748677290.png" group-title="Películas",Paramount USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9506SPIKE/chunks.m3u8?md5=v7g3GGlBxzxOYdC33vjRkA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones TV USA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1311-1748677432.png" group-title="1 Mbps",Pasiones TV USA
+https://lpro-portal000.x3tunnel.com/andromeda/PASIONES/chunks.m3u8?md5=10jZK3wPKQq7BTWYY-0d6Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="PBS LA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1239-1748677646.png" group-title="Networks",PBS LA
+https://lpro-portal000.x3tunnel.com/beto/pbsLA/chunks.m3u8?md5=-GJrNFpfKrLF2m_yoYxlQA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Punto 2" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1312-1748574687.png" group-title="Entretenimiento",Punto 2
+https://lpro-portal000.x3tunnel.com/PR/punto2pr/chunks.m3u8?md5=1snrRIP_L38KRv2z8Cvwxw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1306-1748677563.png" group-title="1 Mbps",PX Sports
+https://lpro-portal000.x3tunnel.com/Dmx/294NatGeoKids/chunks.m3u8?md5=4TuxCUBYzQM2LeV8adVhnw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Rai Italia" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1313-1748831410.png" group-title="Internacionales",Rai Italia
+https://lpro-portal000.x3tunnel.com/beto/RAI/chunks.m3u8?md5=NM1_uP94JDwUv8sze0WnFA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Real Extreme" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1314-1748679295.png" group-title="Adultos",Real Extreme
+https://lpro-portal000.x3tunnel.com/Dusa/491REALX/chunks.m3u8?md5=HogSf3IK-rXXutieJdq0yQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1315-1748679381.png" group-title="Deportes",Red Bull TV
+https://lpro-portal000.x3tunnel.com/beto/REDBULLTV/chunks.m3u8?md5=HtzlKNmAfazh_W21FMUfog&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Reality Kings" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1316-1748679469.png" group-title="Adultos",Reality Kings
+https://lpro-portal000.x3tunnel.com/Dusa/495RKTV/chunks.m3u8?md5=lv0DP0sPIDV1rqX57eT5eA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME East" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1000-1748679654.png" group-title="Inglés",SHOWTIME East
+https://lpro-portal000.x3tunnel.com/Dusa/9460SHO-E/chunks.m3u8?md5=d2xSFzpt2tv33nOZY7wtqA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SeXtreme" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1318-1748679555.png" group-title="Adultos",SeXtreme
+https://lpro-portal000.x3tunnel.com/Dusa/490Sextreme/chunks.m3u8?md5=8wqKanY-90vvRYOGNRRGwQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME Latino HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/countries/united-states/showtime-us.png" group-title="Inglés",SHOWTIME Latino HD
+https://lpro-portal000.x3tunnel.com/lista/eventox20/chunks.m3u8?md5=6lVecVN80AN6u2FhA1kqaQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME WEST HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1319-1748680506.png" group-title="Películas",SHOWTIME WEST HD
+https://lpro-portal000.x3tunnel.com/Dusa/9512SHO-W/chunks.m3u8?md5=NiLUfTw_N-N9PR9OLG-QnQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Show Family Zone HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1323-1748680570.png" group-title="Inglés",Show Family Zone HD
+https://lpro-portal000.x3tunnel.com/Dusa/9478SHOFZ/chunks.m3u8?md5=AI80o3JGR3Knm1IEO5HNdg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SexMex" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1322-1748680637.png" group-title="Adultos",SexMex
+https://lpro-portal000.x3tunnel.com/canada/Sexmex/chunks.m3u8?md5=_ABGcxQ6inIPjqi-wwglRA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1324-1748807959.png" group-title="1 Mbps",Sony Channel
+https://lpro-portal000.x3tunnel.com/Dmx/211sony/chunks.m3u8?md5=H45SxwSgXqh-x1528rF6Ww&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1325-1748808295.png" group-title="Español",Sony Channel HD
+https://lpro-portal000.x3tunnel.com/beto/SONY/chunks.m3u8?md5=Qx9mIvMpWyYLvddXXA8wkQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movie Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1326-1748808402.png" group-title="Entretenimiento",Sony Movie Channel HD
+https://lpro-portal000.x3tunnel.com/andromeda/SONYHDx/chunks.m3u8?md5=yn4xzzldGEX2V903MI1kJg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SPACE Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1327-1748808587.png" group-title="1 Mbps",SPACE Mx
+https://lpro-portal000.x3tunnel.com/Dmx/221SpaceMexico/chunks.m3u8?md5=zJpMAh2WIC9W7Y7Ro1s7aw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SPACE Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1320-1748808531.png" group-title="Español",SPACE Mx HD
+https://lpro-portal000.x3tunnel.com/Rulas/encoder84-evento17/chunks.m3u8?md5=DiQ6XF-BcEG8d8Z7CEs1Yw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1328-1748808705.png" group-title="1 Mbps",Star Channel
+https://lpro-portal000.x3tunnel.com/Dmx/202CanalFOXMexico/chunks.m3u8?md5=VuSngxi0TScgcDgV1anhPw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1329-1748808782.png" group-title="Español",Star Channel HD
+https://lpro-portal000.x3tunnel.com/Bodega/evento5/chunks.m3u8?md5=QupcURtvDOfBUUji9XUE7w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1330-1748808946.png" group-title="Películas",Starz Comedy USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9486STZC/chunks.m3u8?md5=8128nislVEZiE_CiAZhfcw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1331-1748809068.png" group-title="Películas",Starz Encore USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9537ENCRW/chunks.m3u8?md5=gKjmLQql-qmXeDpHk7PwVg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids&Family USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1332-1748809168.png" group-title="Películas",Starz Kids&Family USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9497StarzF/chunks.m3u8?md5=EqF0CM-Owc3m_guRTGARog&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="STARZ West USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1333-1748809254.png" group-title="Inglés",STARZ West USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9498STRZW/chunks.m3u8?md5=vNr13scvUfvHK26Kk2BChQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1334-1748809387.png" group-title="1 Mbps",Studio Universal Mx
+https://lpro-portal000.x3tunnel.com/Dmx/386estudio/chunks.m3u8?md5=Z_7dYwBcMS7b11JNVe9xRA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1335-1748809460.png" group-title="Español",Studio Universal Mx HD
+https://lpro-portal000.x3tunnel.com/beto/STUDIO/chunks.m3u8?md5=Lq35SOOELcU1eEz9pCmZHg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="SYFY USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1321-1748809545.png" group-title="Entretenimiento",SYFY USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9432SYFY/chunks.m3u8?md5=APvElW3vj4Q7u14b6zGTEw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TBS USA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1336-1748809625.png" group-title="1 Mbps",TBS USA
+https://lpro-portal000.x3tunnel.com/Dusa/9499TBS/chunks.m3u8?md5=qJcFpeoWSJ9WDCl88-_jew&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Tele 11" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1360-1748574790.png" group-title="Entretenimiento",Tele 11
+https://lpro-portal000.x3tunnel.com/PR/CH=PR-WLII/chunks.m3u8?md5=JtFsRzMe9tzn4loMqHWSUA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1361-1748809695.png" group-title="Noticias",Teleformula
+https://lpro-portal000.x3tunnel.com/Dmx/354Elfinanciero/chunks.m3u8?md5=hxV4iZhdx5C9TKSHjlkMUw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1338-1748831892.png" group-title="Adultos",TEN
+https://lpro-portal000.x3tunnel.com/Dusa/494TEN/chunks.m3u8?md5=T6Rgyz4Ij6fkqgKYAoDkSA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Musica" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1362-1748809795.png" group-title="Música",Telehit Musica
+https://lpro-portal000.x3tunnel.com/beto/Telehit/chunks.m3u8?md5=t2Clv65OMWLzTEY5MixYqg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Plus" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1363-1748809867.png" group-title="Música",Telehit Plus
+https://lpro-portal000.x3tunnel.com/Rulas/DTURBO/chunks.m3u8?md5=f29rYV6LL9K6XZCCRrxi_g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Teleisla PR" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1364-1748574875.png" group-title="Entretenimiento",Teleisla PR
+https://lpro-portal000.x3tunnel.com/PR/teleislapr/chunks.m3u8?md5=Lv-WkaH1BK4N_gE8lNuXzA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo LA SD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1433-1748477736.png" group-title="Español",Telemundo LA SD
+https://lpro-portal000.x3tunnel.com/andromeda/telemundow/chunks.m3u8?md5=K9gBEqxcYEhAVyU1PnorQQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo LA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1434-1748477846.png" group-title="Español",Telemundo LA HD
+https://lpro-portal000.x3tunnel.com/lista/eventox10/chunks.m3u8?md5=rW7EDQvOeVWKpCP2s9TEpw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1439-1748478001.png" group-title="Español",Telemundo Miami HD
+https://lpro-portal000.x3tunnel.com/canada/telemundoMI/chunks.m3u8?md5=ix04dh9b3Ep8KiZTsAFPew&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo NY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1366-1748478185.png" group-title="Networks",Telemundo NY
+https://lpro-portal000.x3tunnel.com/canada/telemundoMI/chunks.m3u8?md5=ix04dh9b3Ep8KiZTsAFPew&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1367-1748575007.png" group-title="Entretenimiento",Telemundo PR
+https://lpro-portal000.x3tunnel.com/PR/CH=PR-WKAQ/chunks.m3u8?md5=r7INs_3Y0ZpdaaFT3x2olg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo TX" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1368-1748479073.png" group-title="Networks",Telemundo TX
+https://lpro-portal000.x3tunnel.com/lista/eventox10/chunks.m3u8?md5=rW7EDQvOeVWKpCP2s9TEpw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Teleritmo" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1370-1748810084.png" group-title="Música",Teleritmo
+https://lpro-portal000.x3tunnel.com/Dmx/276teleritmo/chunks.m3u8?md5=qTAhfZSBNIj9tgCu2ny2fQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1372-1748810228.png" group-title="Español",Televisa Monterrey
+https://lpro-portal000.x3tunnel.com/alpha/TelevisaMty/chunks.m3u8?md5=or3BppbFsMgY8JYbg1Xu4Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1373-1748810300.png" group-title="Deportes",Tennis Channel HD
+https://lpro-portal000.x3tunnel.com/lista/eventox7/chunks.m3u8?md5=WyyN7Q90p3tbowxq-3thbg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TLC Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1339-1748814864.png" group-title="Español",TLC Mx
+https://lpro-portal000.x3tunnel.com/Dmx/217TLC/chunks.m3u8?md5=qMTeUS-rb07gJ6oV0I53VA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TLC Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1340-1748814935.png" group-title="Entretenimiento",TLC Mx HD
+https://lpro-portal000.x3tunnel.com/beto/TLC/chunks.m3u8?md5=Eb49JfHcuj1z0haEhdpOyg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TLC USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1341-1748815009.png" group-title="Entretenimiento",TLC USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9488TLC/chunks.m3u8?md5=hG89pGTHmTXNd3gTQ5f8oQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1342-1748815085.png" group-title="Español",TLNovelas
+https://lpro-portal000.x3tunnel.com/beto/TLENOVELAS/chunks.m3u8?md5=TUHTik3NZhWu4Qfzt4w91w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1343-1748815148.png" group-title="1 Mbps",TNT Mx
+https://lpro-portal000.x3tunnel.com/Dmx/602TNT/chunks.m3u8?md5=0_vujnNo0Yt8BJTjs_oJQg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1344-1748815211.png" group-title="Entretenimiento",TNT Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/TNTmx/chunks.m3u8?md5=QzA7fWT8uuC19DqMxlZMug&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1348-1748815570.png" group-title="Inglés",TNT USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9420TNT/chunks.m3u8?md5=qXHF7rPjJbe953Yo_q1SYQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1345-1748815287.png" group-title="Entretenimiento",TNT Series Mx
+https://lpro-portal000.x3tunnel.com/Dmx/205TNTSE/chunks.m3u8?md5=EzKNbKBm_2E52JaiG7jtbQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1346-1748815356.png" group-title="Entretenimiento",TNT Series Mx HD
+https://lpro-portal000.x3tunnel.com/beto/TNTSERIES/chunks.m3u8?md5=yoASRAv8bf-o-J0-kjb_IA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1347-1769892273.png" group-title="Deportes",TNT Sports Chile HD
+https://lpro-portal000.x3tunnel.com/canada/TNTsp/chunks.m3u8?md5=Rf2iuCWgoZxG13V-V4Ez_A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Prem Arg HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1662-1769892645.png" group-title="Español",TNT Sports Prem Arg HD
+https://lpro-portal000.x3tunnel.com/beto/TEENNICK/chunks.m3u8?md5=NkMDyFN4Dv_aACk6fOEMiw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Prem Chile HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1663-1769832030.png" group-title="Español",TNT Sports Prem Chile HD
+https://lpro-portal000.x3tunnel.com/beto/TCM/chunks.m3u8?md5=kKjGAN6kw_OSBVFJ1ryEBg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1349-1748815636.png" group-title="Español",TNT Novelas
+https://lpro-portal000.x3tunnel.com/Dmx/223TBS/chunks.m3u8?md5=T_BrmzVMiRLvwptXMkbapQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport Stars International" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1376-1748815749.png" group-title="Deportes",Trace Sport Stars International
+https://lpro-portal000.x3tunnel.com/Dmx/209FoxLife/chunks.m3u8?md5=u5pwIBklfNGSxqXtCfHDUA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1377-1748809934.png" group-title="Inglés",Travel Channel USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9437TRV/chunks.m3u8?md5=IDSR0AOzg-LebV-xe3OTyg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV USA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1378-1748815841.png" group-title="Inglés",TRU TV USA
+https://lpro-portal000.x3tunnel.com/Dusa/9430TRU/chunks.m3u8?md5=7R3iQUbj-oeFi4afkDEACw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1350-1748815900.png" group-title="Infantiles",Tooncast
+https://lpro-portal000.x3tunnel.com/canada/TooncastHD/chunks.m3u8?md5=MUmo0ghAlCrdbBnNcfnW-Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TUDN Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1351-1748815974.png" group-title="Deportes",TUDN Mx HD
+https://lpro-portal000.x3tunnel.com/alpha/TUDNmxx/chunks.m3u8?md5=lcfwqLzvgDuSbVVFYhhEsQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TUDN Mx HD ALT" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1394-1748816032.png" group-title="Deportes",TUDN Mx HD ALT
+https://lpro-portal000.x3tunnel.com/Rulas/Telehit/chunks.m3u8?md5=8pdRC5vxRdAQm69Jcz8MRA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1353-1748816086.png" group-title="Deportes",TUDN USA HD
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in05/chunks.m3u8?md5=qSztEkP7RmvVpA1qpWte2w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA HD Alt" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1352-1748816147.png" group-title="Deportes",TUDN USA HD Alt
+https://lpro-portal000.x3tunnel.com/Rulas/encoder81-evento15/chunks.m3u8?md5=1gxCGzc65t714GF6G6QR2Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES SD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1461-1748936257.png" group-title="1 Mbps",TVC DEPORTES SD
+https://lpro-portal000.x3tunnel.com/Dmx/662foxAction/chunks.m3u8?md5=bv5gsnB5GYlyoSFcBC1sDQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1462-1748936331.png" group-title="Español",TVC DEPORTES HD
+https://lpro-portal000.x3tunnel.com/andromeda/tvcdeportesHD/chunks.m3u8?md5=vtADEwhRq9xxEjWgkgXUdA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1456-1748936525.png" group-title="Español",TVE HD
+https://lpro-portal000.x3tunnel.com/beto/TVE/chunks.m3u8?md5=Gy32NLX5hyJGezcz2t50vQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES 2 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C91650-1760838441.png" group-title="Español",TVC DEPORTES 2 HD
+https://lpro-portal000.x3tunnel.com/andromeda/tvcdep2/chunks.m3u8?md5=QXLwj9FAqbXdtvVC-ItJXA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TV UNAM SD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1455-1748987015.png" group-title="1 Mbps",TV UNAM SD
+https://lpro-portal000.x3tunnel.com/Dmx/120tvunam/chunks.m3u8?md5=xaTwE0H3LQHqn9L1v4jHPg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1381-1748816513.png" group-title="1 Mbps",TyC Sports
+https://lpro-portal000.x3tunnel.com/Dmx/508FoxSports3/chunks.m3u8?md5=ElQHZ5kpJPHrkT2Zy5uW8g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1382-1748816572.png" group-title="Deportes",TyC Sports HD
+https://lpro-portal000.x3tunnel.com/canada/TycSpSURAM/chunks.m3u8?md5=oHkqE38RcYk_qOiWUhxnbQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1383-1748816650.png" group-title="Deportes",UFC Network
+https://lpro-portal000.x3tunnel.com/canada/UFC/chunks.m3u8?md5=BrFDavTonvs-9LPeVEQXGw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Unimas LA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-C1435-1748335901_thumb.png" group-title="Español",Unimas LA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9603UNIMW/chunks.m3u8?md5=gcz3Wie67eOmhEBX0Y5E4A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Unimas MIAMI HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1440-1748831112.png" group-title="Español",Unimas MIAMI HD
+https://lpro-portal000.x3tunnel.com/Dusa/9603UNIMW/chunks.m3u8?md5=gcz3Wie67eOmhEBX0Y5E4A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Unimas NY HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-C1443-1748335957_thumb.png" group-title="Español",Unimas NY HD
+https://lpro-portal000.x3tunnel.com/Dusa/9603UNIMW/chunks.m3u8?md5=gcz3Wie67eOmhEBX0Y5E4A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Unimas TX HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-C1449-1748335992_thumb.png" group-title="Español",Unimas TX HD
+https://lpro-portal000.x3tunnel.com/Dusa/9603UNIMW/chunks.m3u8?md5=gcz3Wie67eOmhEBX0Y5E4A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Univision LA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1400-1748937941.png" group-title="Networks",Univision LA HD
+https://lpro-portal000.x3tunnel.com/lista/eventox2/chunks.m3u8?md5=P24neU1FZNARsawo0l8y2A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Univision MIAMI" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1399-1748938025.png" group-title="Español",Univision MIAMI
+https://lpro-portal000.x3tunnel.com/Dusa/9604UNVSN/chunks.m3u8?md5=Aanvbt9Z92XlBSg4EKTUMg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NY HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1299-1748938286.png" group-title="Networks",UNIVISION NY HD
+https://lpro-portal000.x3tunnel.com/canada/univisionNY/chunks.m3u8?md5=_1m269tMMj-TgOiGjm7LGQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Univision TX HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1452-1748938392.png" group-title="Inglés",Univision TX HD
+https://lpro-portal000.x3tunnel.com/Dusa/9604UNVSN/chunks.m3u8?md5=Aanvbt9Z92XlBSg4EKTUMg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1392-1749014655.png" group-title="Entretenimiento",Unicable
+https://lpro-portal000.x3tunnel.com/andromeda/UNICABLE/chunks.m3u8?md5=y5PVUZ02DMKm6OsmePNGuQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Unicable HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1393-1749014581.png" group-title="Entretenimiento",Unicable HD
+https://lpro-portal000.x3tunnel.com/beto/UNICABLE/chunks.m3u8?md5=8WAqgd9ii8BrgwUB2XWRYQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1395-1748940353.png" group-title="Español",Universal TV
+https://lpro-portal000.x3tunnel.com/Dmx/203Universal/chunks.m3u8?md5=Ce19LowiU3w7WgbbQsokJw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1396-1748940453.png" group-title="Español",Universal TV HD
+https://lpro-portal000.x3tunnel.com/andromeda/UNIVERSALx/chunks.m3u8?md5=NQqs7voeAQrZ1-W-srHSsQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1397-1748940676.png" group-title="Entretenimiento",UNIVERSAL REALITY
+https://lpro-portal000.x3tunnel.com/beto/UNIVERREALITY/chunks.m3u8?md5=6QSIiGvBIAYs41iu2v10Bw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1384-1748940774.png" group-title="Español",Universal Cinema
+https://lpro-portal000.x3tunnel.com/beto/UNIVERCINEMA/chunks.m3u8?md5=_JPY6aN8U7DHuYAjjPZOIQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1385-1748940911.png" group-title="Entretenimiento",Universal Comedy
+https://lpro-portal000.x3tunnel.com/beto/UNIVERCOMEDY/chunks.m3u8?md5=5zEIwft14WFupOXX-eCldQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1386-1748940989.png" group-title="Entretenimiento",Universal Crime
+https://lpro-portal000.x3tunnel.com/beto/UNIVERCRIME/chunks.m3u8?md5=MP79zq67ltQo8TGTrqhkhA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1387-1748941177.png" group-title="Español",Universal Premiere
+https://lpro-portal000.x3tunnel.com/beto/UNIVERPREM/chunks.m3u8?md5=_8MFM3ma5Bk775pTOSEL2g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="USA Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1390-1748941776.png" group-title="Español",USA Mx
+https://lpro-portal000.x3tunnel.com/Dmx/204SyFyLatin/chunks.m3u8?md5=D9dGmp1iFm8fXiXFNw_ypQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="USA Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1389-1748941610.png" group-title="Español",USA Mx HD
+https://lpro-portal000.x3tunnel.com/beto/USAlat/chunks.m3u8?md5=zAVVHpqwI2gh4_UffrQ73A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="USA HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1388-1748941514.png" group-title="Inglés",USA HD
+https://lpro-portal000.x3tunnel.com/Dusa/9431USA/chunks.m3u8?md5=hX9-2yx0lnRfUise0eKr3Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1401-1748988785.png" group-title="Música",VH1 HD
+https://lpro-portal000.x3tunnel.com/Dusa/9507VH1/chunks.m3u8?md5=dwhg5swtU8bjf48LgMEt4g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1402-1748988839.png" group-title="Adultos",Venus
+https://lpro-portal000.x3tunnel.com/Dusa/488Venus/chunks.m3u8?md5=0QRdUcC1RLdgVObbT7pmhg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="VICE" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1655-1756796643.png" group-title="Inglés",VICE
+https://lpro-portal000.x3tunnel.com/Dusa/9525VICE/chunks.m3u8?md5=57ozfw8cAd9w3Np_MibaQw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Video Rola" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1403-1748988991.png" group-title="Música",Video Rola
+https://lpro-portal000.x3tunnel.com/Dmx/258VROLA/chunks.m3u8?md5=rSXjPjEABzUXKV4Fn9uIIg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="WAPA" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1406-1748575139.png" group-title="Entretenimiento",WAPA
+https://lpro-portal000.x3tunnel.com/PR/CH=PR-WAPA/chunks.m3u8?md5=JsSomnodDOlthfaJX0Cx7g&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Wapa Deportes PR" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1407-1748575224.png" group-title="Deportes",Wapa Deportes PR
+https://lpro-portal000.x3tunnel.com/PR/CH=PR-WAPA2/chunks.m3u8?md5=dRbONky5gBcBCoX11yWJNw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1665-1769831810.png" group-title="Español",Win Sp HD
+https://lpro-portal000.x3tunnel.com/canada/Mtv00HD/chunks.m3u8?md5=OUiLa6ms_nOfa68zlEOMxQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel Mx" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1408-1748987370.png" group-title="Entretenimiento",Warner Channel Mx
+https://lpro-portal000.x3tunnel.com/Dmx/210WarnerChannel/chunks.m3u8?md5=e5HUUNfHFSXlo6GZr5ByGg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel Mx HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1409-1748987438.png" group-title="Entretenimiento",Warner Channel Mx HD
+https://lpro-portal000.x3tunnel.com/andromeda/WARNERx/chunks.m3u8?md5=uxhM4sOzS35MxH__AtL8aQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="WE tv HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1404-1748990730.png" group-title="Entretenimiento",WE tv HD
+https://lpro-portal000.x3tunnel.com/Dusa/9578WE/chunks.m3u8?md5=5QbIUuc2QAZxbP_JRLieBA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Weather Channel HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1374-1748987559.png" group-title="Culturales",Weather Channel HD
+https://lpro-portal000.x3tunnel.com/Dusa/9438WEATH/chunks.m3u8?md5=v89pfEfqMSbOPANG7dp4Qg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1405-1748987626.png" group-title="Deportes",WWE Network HD
+https://lpro-portal000.x3tunnel.com/lista/eventox14/chunks.m3u8?md5=QWNyDiuxkYCI9u0LvLu73A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="YES Network" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1411-1748987682.png" group-title="Deportes",YES Network
+https://lpro-portal000.x3tunnel.com/beto/YES/chunks.m3u8?md5=mUtO7yN0ggzHEH24z7pbcA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Xtsy" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1001-1748490204.png" group-title="Adultos",Xtsy
+https://lpro-portal000.x3tunnel.com/Dusa/498XTSY/chunks.m3u8?md5=1zaWCWbJ8ep17P3MyOGtMg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports1:C1" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1002-1758652559.png" group-title="SOPORTE",MiTvSports1:C1
+https://lpro-portal000.x3tunnel.com/lista/eventox26/chunks.m3u8?md5=X6K0JFoyZS0WU5OW6DjxJQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports10:C10" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1828-1758653518.png" group-title="SOPORTE",MiTvSports10:C10
+https://lpro-portal000.x3tunnel.com/lista/comodin10/chunks.m3u8?md5=3zG68b8XrCWQQfFQS3WVYg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports11:C11" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1003-1758653606.png" group-title="SOPORTE",MiTvSports11:C11
+https://lpro-portal000.x3tunnel.com/lista/comodin11/chunks.m3u8?md5=sWxq9GmaIFrcbslyFuK25w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports12:C12" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1004-1758653690.png" group-title="SOPORTE",MiTvSports12:C12
+https://lpro-portal000.x3tunnel.com/lista/comodin12/chunks.m3u8?md5=V1TZDtIvb8YGdH_2iCXsQA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports13:C13" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1005-1758653766.png" group-title="SOPORTE",MiTvSports13:C13
+https://lpro-portal000.x3tunnel.com/lista/comodin13/chunks.m3u8?md5=au5ezJkjaOMsOXkChUBMow&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports14:C14" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1006-1758655270.png" group-title="SOPORTE",MiTvSports14:C14
+https://lpro-portal000.x3tunnel.com/lista/comodin14/chunks.m3u8?md5=5fNMEYwJXO33sSoKg8RjAQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports15:C15" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1007-1758655337.png" group-title="SOPORTE",MiTvSports15:C15
+https://lpro-portal000.x3tunnel.com/lista/comodin15/chunks.m3u8?md5=i5NjrP_hiZ27tdwfb4DZMQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports16:C16" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1008-1758655411.png" group-title="SOPORTE",MiTvSports16:C16
+https://lpro-portal000.x3tunnel.com/lista/comodin16/chunks.m3u8?md5=0DanbrwghQNqr_eEOMzTgw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports17:C17" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1009-1758655482.png" group-title="SOPORTE",MiTvSports17:C17
+https://lpro-portal000.x3tunnel.com/lista/comodin17/chunks.m3u8?md5=V3JUTtVGI0BzgwVotNyAww&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports18:C18" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1010-1758655630.png" group-title="SOPORTE",MiTvSports18:C18
+https://lpro-portal000.x3tunnel.com/lista/comodin18/chunks.m3u8?md5=j5W-Gg_UfEQbia9G5i0MzQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports19:CE" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1431-1758660562.png" group-title="SOPORTE",MiTvSports19:CE
+https://lpro-portal000.x3tunnel.com/beto/NICKTOONS/chunks.m3u8?md5=zrTD_ptJCZ1ya8sFlrHKpw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports2:C2" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1011-1758652777.png" group-title="SOPORTE",MiTvSports2:C2
+https://lpro-portal000.x3tunnel.com/lista/eventox27/chunks.m3u8?md5=7vpNPjfw5xHURQIttWsXWw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports3:C3" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1012-1758652914.png" group-title="SOPORTE",MiTvSports3:C3
+https://lpro-portal000.x3tunnel.com/lista/eventox28/chunks.m3u8?md5=VPdKoKDAwo3RJbbm9EDqCA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports34:C34" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1013-1758660819.png" group-title="SOPORTE",MiTvSports34:C34
+https://lpro-portal000.x3tunnel.com/lista/eventox34/chunks.m3u8?md5=4l3sMAiGHV3YnxG9MZvlaw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports35:C35" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1014-1758660915.png" group-title="SOPORTE",MiTvSports35:C35
+https://lpro-portal000.x3tunnel.com/lista/eventox35/chunks.m3u8?md5=Gcd84o0Tz46wHb_3mIvXnQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports4:C4" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1015-1758653004.png" group-title="SOPORTE",MiTvSports4:C4
+https://lpro-portal000.x3tunnel.com/lista/eventox29/chunks.m3u8?md5=o6EThBOC2yEzYGaJ2-Qcrw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports5:C5" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1016-1758653091.png" group-title="SOPORTE",MiTvSports5:C5
+https://lpro-portal000.x3tunnel.com/lista/eventox30/chunks.m3u8?md5=Fi2esvvPbjuoHQJRNCqYcw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports6:C6" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1017-1758653203.png" group-title="SOPORTE",MiTvSports6:C6
+https://lpro-portal000.x3tunnel.com/lista/eventox31/chunks.m3u8?md5=CwKuMiwSCLm0CbUdzPIgVA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports7:C7" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1018-1758653274.png" group-title="SOPORTE",MiTvSports7:C7
+https://lpro-portal000.x3tunnel.com/lista/eventox32/chunks.m3u8?md5=pwOXkTBhoI8AI_xSJ32_JA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports8:C8" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1019-1758653348.png" group-title="SOPORTE",MiTvSports8:C8
+https://lpro-portal000.x3tunnel.com/lista/eventox33/chunks.m3u8?md5=-AL8cahGT6JNt_S9yWv_cw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports9:C9" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1824-1758653423.png" group-title="SOPORTE",MiTvSports9:C9
+https://lpro-portal000.x3tunnel.com/lista/comodin9/chunks.m3u8?md5=oPEAqx61EkQYR7io6skYBA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports20:E1" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1020-1758658467.png" group-title="SOPORTE",MiTvSports20:E1
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in13/chunks.m3u8?md5=AUzzmCDWroFWCt1jV_O8-w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports21:E2" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1021-1758658541.png" group-title="SOPORTE",MiTvSports21:E2
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in12/chunks.m3u8?md5=jBIRoVNyCfTE9ryN550kyw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports22:E3" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1022-1758658627.png" group-title="SOPORTE",MiTvSports22:E3
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in15/chunks.m3u8?md5=P_Uo1HRLXKVF34Ql9oO3rw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports23:E4" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1023-1758658722.png" group-title="SOPORTE",MiTvSports23:E4
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in16/chunks.m3u8?md5=gUKRouCwvMvnMJPqo9rTPA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports24:E5" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1024-1758658795.png" group-title="SOPORTE",MiTvSports24:E5
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in14/chunks.m3u8?md5=wCW1uUZn3RuB3JydFO_5SQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports29:R64" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1294-1758660634.png" group-title="SOPORTE",MiTvSports29:R64
+https://lpro-portal000.x3tunnel.com/Rulas/encoder64-f1/chunks.m3u8?md5=0mEX1Ww21MBk7tg6beHJBA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports30:R67" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1025-1758660728.png" group-title="SOPORTE",MiTvSports30:R67
+https://lpro-portal000.x3tunnel.com/Rulas/encoder67-evento1/chunks.m3u8?md5=rtWguC5B3tMG7OpqwayD_w&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports31:R68" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1026-1758657357.png" group-title="SOPORTE",MiTvSports31:R68
+https://lpro-portal000.x3tunnel.com/Rulas/encoder68-evento2/chunks.m3u8?md5=afdf3EDQjItn2RKJA1Ohfw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports32:R69" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1027-1758657444.png" group-title="SOPORTE",MiTvSports32:R69
+https://lpro-portal000.x3tunnel.com/Rulas/encoder69-evento3/chunks.m3u8?md5=ELN_Uk03-5AaKjqPjYyJiA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports33:R70" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1028-1758657799.png" group-title="SOPORTE",MiTvSports33:R70
+https://lpro-portal000.x3tunnel.com/Rulas/encoder70-evento4/chunks.m3u8?md5=tpj7GQ2zQ552dthuyZOlow&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="R71:MiTvSports36:R71" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1029-1758657854.png" group-title="SOPORTE",R71:MiTvSports36:R71
+https://lpro-portal000.x3tunnel.com/Rulas/encoder71-evento5/chunks.m3u8?md5=EuwkCLaKolXtkzrkR5UrPQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports37:R72" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1030-1758657910.png" group-title="SOPORTE",MiTvSports37:R72
+https://lpro-portal000.x3tunnel.com/Rulas/encoder72-evento6/chunks.m3u8?md5=D7wuOywZP9FukhROUTVlkg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports38:R73" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1031-1758657961.png" group-title="SOPORTE",MiTvSports38:R73
+https://lpro-portal000.x3tunnel.com/Rulas/encoder73-evento7/chunks.m3u8?md5=jggx1D1XdKHOHOj1Q3k6Vg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports39:R74" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1032-1758658067.png" group-title="SOPORTE",MiTvSports39:R74
+https://lpro-portal000.x3tunnel.com/Rulas/encoder74-evento8/chunks.m3u8?md5=e-88LoRMnxMxfHV80T2jJQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports40:R78" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1365-1758661033.png" group-title="SOPORTE",MiTvSports40:R78
+https://lpro-portal000.x3tunnel.com/Rulas/encoder78-evento12/chunks.m3u8?md5=79UwOO5oEJPFW-2yEvjvSw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports25:E6" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1033-1758658865.png" group-title="SOPORTE",MiTvSports25:E6
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in03/chunks.m3u8?md5=XYfUz0Lwje8REIfscXktFw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports26:E7" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1034-1758660112.png" group-title="SOPORTE",MiTvSports26:E7
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in04/chunks.m3u8?md5=TLEV3fD5-fMYiQpmUmm4Zg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports27:E8" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1035-1758660359.png" group-title="SOPORTE",MiTvSports27:E8
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in02/chunks.m3u8?md5=kubjWU9_1hDfIv7mGXFbLQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports28:E9" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1248-1758660438.png" group-title="SOPORTE",MiTvSports28:E9
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in01/chunks.m3u8?md5=jWYmGJ7O4oiu1ZhBd5aGNw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports41:C20" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1651-1761593159.png" group-title="SOPORTE",MiTvSports41:C20
+https://lpro-portal000.x3tunnel.com/lista/comodin20/chunks.m3u8?md5=K_U01hMEVgAsMQPaUm-hqQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports42:C21" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1652-1761593369.png" group-title="SOPORTE",MiTvSports42:C21
+https://lpro-portal000.x3tunnel.com/lista/comodin21/chunks.m3u8?md5=M0qBrVnOrTwZYgKyNcucRA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports43:C22" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1653-1761593537.png" group-title="SOPORTE",MiTvSports43:C22
+https://lpro-portal000.x3tunnel.com/lista/comodin22/chunks.m3u8?md5=4YEU6wYKvjFJB3nSnXKIcA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports44:C23" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1654-1761593851.png" group-title="SOPORTE",MiTvSports44:C23
+https://lpro-portal000.x3tunnel.com/lista/comodin23/chunks.m3u8?md5=9XU6nVJkF7-NJCl0XCcWyA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports45:C24" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1656-1761594363.png" group-title="SOPORTE",MiTvSports45:C24
+https://lpro-portal000.x3tunnel.com/lista/comodin24/chunks.m3u8?md5=vpF37LkXJkS_uI21aYFsgQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports46:C25" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1657-1761594295.png" group-title="SOPORTE",MiTvSports46:C25
+https://lpro-portal000.x3tunnel.com/lista/comodin25/chunks.m3u8?md5=siTMDAQkNo2qyTSFEFZJ3Q&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports47:C26" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1658-1761594198.png" group-title="SOPORTE",MiTvSports47:C26
+https://lpro-portal000.x3tunnel.com/lista/comodin26/chunks.m3u8?md5=nsofD7ozJA8lYsbVPCipJw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports48:C27" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1659-1761593808.png" group-title="SOPORTE",MiTvSports48:C27
+https://lpro-portal000.x3tunnel.com/lista/comodin27/chunks.m3u8?md5=PizXFkdtPJ2ULybSkZerJg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports49:C28" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1660-1761593662.png" group-title="SOPORTE",MiTvSports49:C28
+https://lpro-portal000.x3tunnel.com/lista/comodin28/chunks.m3u8?md5=wLaPQq0eNW58xusyHemCoA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports50:C29" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1661-1761593600.png" group-title="SOPORTE",MiTvSports50:C29
+https://lpro-portal000.x3tunnel.com/lista/comodin29/chunks.m3u8?md5=m6-557TwKPdlnlTZDMcbfQ&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="MiTvSports51:E10" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1667-1771661036.png" group-title="SOPORTE",MiTvSports51:E10
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in17/chunks.m3u8?md5=xRFPRgje236vct0dCVfang&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 1 Fórmula 1" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1600-1782444233.png" group-title="Eventos",Evento 1 Fórmula 1
+https://lpro-portal000.x3tunnel.com/canada/EspnPremSURAM/chunks.m3u8?md5=k5etTMyj_dEgXWV7Dgqb1A&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 6 UFC" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1605-1782537858.png" group-title="Eventos",Evento 6 UFC
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in15/chunks.m3u8?md5=P_Uo1HRLXKVF34Ql9oO3rw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 14 WWE Night of Champions" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1613-1782537737.png" group-title="Eventos",Evento 14 WWE Night of Champions
+https://lpro-portal000.x3tunnel.com/Bodega/enco1_in12/chunks.m3u8?md5=jBIRoVNyCfTE9ryN550kyw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 16 MLB" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1615-1782537516.png" group-title="Eventos",Evento 16 MLB
+https://lpro-portal000.x3tunnel.com/lista/comodin26/chunks.m3u8?md5=nsofD7ozJA8lYsbVPCipJw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 17 Golf" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1616-1782418613.png" group-title="Eventos",Evento 17 Golf
+https://lpro-portal000.x3tunnel.com/alpha/ESPN2mx/chunks.m3u8?md5=M6pGbY8CadgPgOZd9zhCJA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 18 Golf" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1617-1782418752.png" group-title="Eventos",Evento 18 Golf
+https://lpro-portal000.x3tunnel.com/Dusa/9473GOLF/chunks.m3u8?md5=oEZBHbCmsdQI2-miphAJMA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 27 Rodeo" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1626-1781888722.png" group-title="Eventos",Evento 27 Rodeo
+https://lpro-portal000.x3tunnel.com/Dusa/9684COWBOY/chunks.m3u8?md5=ARhJsISOqdoyf-WODtpRDA&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 29 FIFA World Cup" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1628-1782460379.png" group-title="Eventos",Evento 29 FIFA World Cup
+https://lpro-portal000.x3tunnel.com/alpha/aztecaMTY/chunks.m3u8?md5=0R9m7QmkwsQ--uFXJhplDg&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
+#EXTINF:-1 tvg-id="" tvg-name="Evento 30 FIFA World Cup" tvg-logo="https://verynewapimax.extreaming.xyz/uploads/channels/channel-logo-dark-C1629-1782460597.png" group-title="Eventos",Evento 30 FIFA World Cup
+https://lpro-portal000.x3tunnel.com/lista/eventox10/chunks.m3u8?md5=rW7EDQvOeVWKpCP2s9TEpw&expires=1782690151&token=f2-com.mitvpro.android.ott&md5=oIBgs6NkUHFlFKCUKSGzXA&expires=1782787352
