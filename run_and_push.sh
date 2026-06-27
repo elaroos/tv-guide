@@ -63,7 +63,7 @@ git remote set-url origin "$REPO_URL" 2>/dev/null || \
 
 log "Haciendo commit y push..."
 for f in playlist.m3u epg.xml; do
-    [ -f "$f" ] && git add "$f"
+    [ -f "$f" ] && git add -f "$f"
 done
 if git diff --cached --quiet; then
     log "Sin cambios para commit"
