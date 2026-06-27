@@ -200,6 +200,7 @@ def generate_epg(channels, token, session):
     return "\n".join(lines)
 
 def main():
+    epg_only = "--epg-only" in sys.argv
     if not ACCESS_TOKEN:
         print("[ERROR] ACCESS_TOKEN environment variable not set")
         sys.exit(1)
@@ -214,16 +215,19 @@ def main():
         print(f"Categories: {len(categories)}")
     import requests as req
     session = req.Session()
-    print("Fetching playbacks...")
-    results = fetch_playbacks(channels, session)
-    if results is None:
-        sys.exit(1)
-    print(f"OK: {len(results)} channels with URLs")
-    m3u = generate_m3u(results, categories)
-    m3u_path = os.path.join(script_dir, "playlist.m3u")
-    with open(m3u_path, "w", encoding="utf-8") as f:
-        f.write(m3u)
-    print(f"M3U: {m3u_path} ({len(m3u)} bytes)")
+    if not epg_only:
+        print("Fetching playbacks...")
+        results = fetch_playbacks(channels, session)
+        if results is None:
+            sys.exit(1)
+        print(f"OK: {len(results)} channels with URLs")
+        m3u = generate_m3u(results, categories)
+        m3u_path = os.path.join(script_dir, "playlist.m3u")
+        with open(m3u_path, "w", encoding="utf-8") as f:
+            f.write(m3u)
+        print(f"M3U: {m3u_path} ({len(m3u)} bytes)")
+    else:
+        print("--epg-only: skipping playback fetch")
     print("Fetching EPG...")
     time.sleep(2)
     epg_xml = generate_epg(channels, ACCESS_TOKEN, session)

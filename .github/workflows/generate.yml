@@ -1,6 +1,8 @@
-name: Generate Playlist
+name: Deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
@@ -15,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  generate:
+  deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -29,8 +31,9 @@ jobs:
 
       - run: pip install requests
 
-      - name: Generate playlist and EPG
-        run: python playlist_generator.py
+      - name: Generate EPG (schedule/manual only)
+        if: ${{ github.event_name != 'push' }}
+        run: python playlist_generator.py --epg-only
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           HMAC_SECRET: ${{ secrets.HMAC_SECRET }}

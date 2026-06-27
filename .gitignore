@@ -11,3 +11,7 @@ playback_*.json
 # Python cache
 __pycache__/
 *.pyc
+
+# Local config
+local_config.ps1
+gh_token.txt
