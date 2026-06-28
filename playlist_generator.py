@@ -142,8 +142,6 @@ def generate_m3u(results, categories):
             worker_url = sys.argv[i + 1].rstrip("/")
     for cd in sorted_channels:
         url = cd["url"]
-        # Remove duplicate md5&expires trailing pair (causes 403 in players that sort params alphabetically)
-        url = re.sub(r'&md5=[^&]+&expires=\d+$', '', url)
         cat_name = cat_names.get(cd.get("category_id"), "")
         logo = cd.get("logo", "")
         if kodi_mode:
@@ -178,6 +176,7 @@ def generate_epg(channels, token, session):
         "X-SecureTV-Id": HEADERS_TEMPLATE["X-SecureTV-Id"],
         "X-Client-Identifier": HEADERS_TEMPLATE["X-Client-Identifier"],
         "X-Platform": "OTT",
+        "X-Tenant-ID": "1000000034",
     }
     now = datetime.now(timezone.utc)
     resp = session.get(f"{API_BASE}{path}?from={now.strftime('%Y-%m-%dT00:00:00.000')}Z", headers=headers, timeout=30)
