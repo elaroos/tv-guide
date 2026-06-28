@@ -40,7 +40,7 @@ log "Instalando dependencias..."
 
 log "Ejecutando playlist_generator.py..."
 cd "$DIR"
-python playlist_generator.py 2>&1 | tee -a "$LOG"
+python playlist_generator.py --kodi 2>&1 | tee -a "$LOG"
 
 if [ ! -f "playlist.m3u" ] && [ ! -f "epg.xml" ]; then
     log "[ERROR] No se generaron archivos"

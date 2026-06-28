@@ -23,7 +23,7 @@ HEADERS_TEMPLATE = {
     "X-Signature": "",
     "X-Platform": "OTT",
     "X-Content-ADULT": "false",
-    "X-Tenant-ID": "",
+    "X-Tenant-ID": "1000000034",
 }
 
 def load_json(path):
@@ -94,9 +94,9 @@ def fetch_one_playback(ch):
         "X-Signature": "",
         "X-Platform": "OTT",
         "X-Content-ADULT": "false",
-        "X-Tenant-ID": "",
-        "X-Timestamp": ts,
-        "X-API-Signature": sig,
+    "X-Tenant-ID": "1000000034",
+    "X-Timestamp": ts,
+    "X-API-Signature": sig,
     }
     try:
         resp = req.get(f"{API_BASE}{path}", headers=hdrs, timeout=15)
