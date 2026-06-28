@@ -135,11 +135,30 @@ def generate_m3u(results, categories):
             cat_names[c["id"]] = c.get("local_genre", c.get("name", f"Cat {c['id']}"))
     sorted_channels = sorted(results.values(), key=lambda x: (x["number"] if x["number"] else 9999))
     lines = ['#EXTM3U tvg-url="epg.xml"']
+    kodi_mode = "--kodi" in sys.argv
+    worker_url = None
+    for i, arg in enumerate(sys.argv):
+        if arg == "--worker" and i + 1 < len(sys.argv):
+            worker_url = sys.argv[i + 1].rstrip("/")
     for cd in sorted_channels:
+        url = cd["url"]
+        # Remove duplicate md5&expires trailing pair (causes 403 in players that sort params alphabetically)
+        url = re.sub(r'&md5=[^&]+&expires=\d+$', '', url)
         cat_name = cat_names.get(cd.get("category_id"), "")
         logo = cd.get("logo", "")
+        if kodi_mode:
+            lines.append(f'#KODIPROP:inputstreamaddon=inputstream.adaptive')
+            lines.append(f'#KODIPROP:inputstream.adaptive.manifest_type=hls')
         lines.append(f'#EXTINF:-1 tvg-id="{cd.get("channel_id", "")}" tvg-name="{cd["name"]}" tvg-logo="{logo}" group-title="{cat_name}",{cd["name"]}')
-        lines.append(cd["url"])
+        if kodi_mode:
+            final_url = url
+            if worker_url:
+                final_url = f'{worker_url}/?url={final_url}'
+            elif "--kodi-http" in sys.argv and final_url.startswith("https://"):
+                final_url = "http://" + final_url[8:]
+            lines.append(f'{final_url}|User-Agent=okhttp%2F4.9.0&Accept=*%2F*&Accept-Language=en')
+        else:
+            lines.append(url)
     return "\n".join(lines)
 
 def generate_epg(channels, token, session):
